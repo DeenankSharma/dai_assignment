@@ -1,0 +1,751 @@
+order_id,category,subcategory,name,price,quantity,discount,price_paid ,payment_mode,coupon_applied
+1,Home,Cleaning,Cleaning Mechanism,11.99,0,30,8.393,debit card,FALSE
+2,Activity,Biking,Biking Mechanism,82.99,4,40,49.794,cash,FALSE
+3,Electronics,Camera,Camera Device,115.99,4,20,92.792,credit card,
+4,Home,Furniture,Furniture Thingamajig,147,3,40,88.2,cash,FALSE
+5,Activity,Beach,Beach Tool,114.99,1,50,57.495,credit card,TRUE
+6,Home,Cooking,Cooking Paraphernalia,159,0,10,143.1,credit card,FALSE
+7,Activity,Outdoors,Outdoors Gizmo,105.99,2,5,100.6905,debit card,FALSE
+8,Home,Storage,Storage Instrument,137,1,40,82.2,credit card,TRUE
+9,Entertainment,Book,Book Item,84,4,10,80,debit card,TRUE
+10,Beauty,Bath,Bath Widget,197.95,2,50,98.975,cash,TRUE
+11,Beauty,Makeup,Makeup Apparatus,83.95,3,50,41.975,credit card,FALSE
+12,Activity,Biking,Biking Rig,118.95,3,30,83.265,debit card,FALSE
+13,Entertainment,Movie,Movie Paraphernalia,90.99,2,30,63.693,cash,
+14,Entertainment,Book,Book Doodad,51.99,2,40,40,cash,FALSE
+15,Clothing,Baby,Baby Machine,49.99,4,30,34.993,credit card,
+16,Clothing,Mens,Mens Gadget,52.99,1,40,31.794,debit card,TRUE
+17,Electronics,Phone,Phone Paraphernalia,81.99,1,40,49.194,credit card,TRUE
+18,Automotive,Car,Car Tool,126.95,1,30,40,credit card,FALSE
+19,Entertainment,Party,Party Paraphernalia,11,4,30,7.7,credit card,TRUE
+20,Home,Gardening,Gardening Supplies,150,1,50,75,debit card,FALSE
+21,Automotive,Car,Car Tool,16,1,40,9.6,UPI,
+22,Clothing,Jewelry,Jewelry Widget,143,3,30,100.1,UPI,TRUE
+23,Automotive,Truck,Truck Tool,41.99,2,,41.99,cash,FALSE
+24,Health,Medicine,Medicine Machine,92.95,3,5,88.3025,debit card,
+25,Clothing,Jewelry,Jewelry Paraphernalia,175,4,30,122.5,debit card,TRUE
+26,Activity,Beach,Beach Apparatus,17.95,3,50,8.975,UPI,
+27,Home,Kitchen,Kitchen Attachment,183,1,10,164.7,UPI,
+28,Activity,Fitness,Fitness Equipment,46.99,1,5,44.6405,debit card,FALSE
+29,Beauty,Bath,Bath Apparatus,42.99,3,30,20,UPI,FALSE
+30,Home,Bedding,Bedding Gizmo,38.99,2,50,19.495,debit card,TRUE
+31,Beauty,Hair Care,Hair Care Paraphernalia,52.95,4,20,42.36,credit card,
+32,Electronics,Camera,Camera Accessory,81.99,4,,81.99,UPI,FALSE
+33,Clothing,Womens,Womens Widget,149.95,2,40,89.97,debit card,TRUE
+34,Automotive,Tire,Tire Tool,191,1,10,171.9,UPI,TRUE
+35,Clothing,Baby,Baby Apparatus,65.99,3,40,39.594,debit card,FALSE
+36,Activity,Biking,Biking Doodad,162.99,2,10,146.691,debit card,FALSE
+37,Automotive,Tire,Tire Doodad,77.99,3,20,50,credit card,
+38,Automotive,Car,Car Apparatus,187.99,4,,187.99,cash,FALSE
+39,Entertainment,Game,Game Device,96,2,,96,debit card,TRUE
+40,Health,Vitamin,Vitamin Gear,193,2,30,135.1,cash,FALSE
+41,Clothing,Baby,Baby Equipment,117.99,4,20,94.392,debit card,FALSE
+42,Clothing,Kids,Kids Doodad,130.99,4,40,78.594,credit card,TRUE
+43,Activity,Outdoors,Outdoors Component,37.99,4,50,18.995,UPI,TRUE
+44,Activity,Fitness,Fitness Equipment,176,2,40,105.6,debit card,TRUE
+45,Activity,Biking,Biking Component,128.95,1,40,77.37,UPI,TRUE
+46,Automotive,Engine,Engine Component,150.95,2,40,90.57,cash,TRUE
+47,Beauty,Skin Care,Skin Care Equipment,122.95,3,20,98.36,credit card,FALSE
+48,Automotive,Tire,Tire Gizmo,182,4,,182,debit card,FALSE
+49,Entertainment,Book,Book Mechanism,132,2,10,118.8,credit card,TRUE
+50,Beauty,Bath,Bath Item,102.99,3,5,97.8405,UPI,
+51,Home,Furniture,Furniture Whatchamacallit,87,0,10,50,UPI,FALSE
+52,Health,Medicine,Medicine Gear,116.99,4,30,81.893,credit card,FALSE
+53,Activity,Camping,Camping Doodad,109.95,1,5,104.4525,debit card,FALSE
+54,Home,Dining,Dining Gizmo,123.99,1,,123.99,UPI,FALSE
+55,Activity,Beach,Beach Kit,76.95,1,40,46.17,cash,TRUE
+56,Pets,Aquarium,Aquarium Widget,57.99,1,30,40.593,debit card,
+57,Home,Home Improvement,Home Improvement Item,92,2,30,64.4,debit card,FALSE
+58,Beauty,Hair Care,Hair Care Contraption,190.99,3,5,181.4405,UPI,
+59,Beauty,Makeup,Makeup Whatchamacallit,125,3,50,50,cash,TRUE
+60,Health,Medicine,Medicine Whatchamacallit,159,1,30,111.3,credit card,TRUE
+61,Clothing,Womens,Womens Equipment,66,0,5,62.7,credit card,TRUE
+62,Activity,Outdoors,Outdoors Apparatus,188.95,4,20,151.16,cash,
+63,Home,Bedding,Bedding Whatchamacallit,88.99,0,,88.99,UPI,FALSE
+64,Home,Furniture,Furniture Gear,164,1,20,131.2,debit card,TRUE
+65,Home,Storage,Storage Kit,32.99,3,5,31.3405,debit card,FALSE
+66,Clothing,Kids,Kids Gizmo,76,2,30,20,cash,FALSE
+67,Automotive,Car,Car Gadget,55.99,1,20,44.792,credit card,FALSE
+68,Activity,Fitness,Fitness Rig,48,2,20,38.4,credit card,TRUE
+69,Clothing,Kids,Kids Gear,193,1,40,115.8,credit card,TRUE
+70,Electronics,Camera,Camera Whatchamacallit,134.95,3,,134.95,UPI,
+71,Health,Medicine,Medicine Doodad,27,4,5,25.65,credit card,FALSE
+72,Entertainment,Book,Book Contraption,41,3,10,36.9,credit card,TRUE
+73,Activity,Fitness,Fitness Component,80.95,3,5,76.9025,debit card,TRUE
+74,Home,Dining,Dining Device,149,4,5,141.55,cash,FALSE
+75,Pets,Aquarium,Aquarium Item,131.99,3,40,79.194,credit card,
+76,Home,Dining,Dining Gadget,129,4,30,90.3,debit card,
+77,Entertainment,Toy,Toy Gadget,45.99,1,50,22.995,credit card,
+78,Home,Gardening,Gardening Component,101.95,1,20,81.56,cash,FALSE
+79,Entertainment,Book,Book Attachment,89.95,1,30,62.965,debit card,FALSE
+80,Activity,Biking,Biking Component,40.99,1,50,20.495,debit card,TRUE
+81,Pets,Cat,Cat Attachment,195,1,30,136.5,cash,FALSE
+82,Health,Vitamin,Vitamin Gear,28,3,10,25.2,credit card,TRUE
+83,Home,Home Improvement,Home Improvement Gear,85.95,2,40,51.57,UPI,TRUE
+84,Clothing,Womens,Womens Accessory,154.99,2,5,147.2405,credit card,FALSE
+85,Beauty,Makeup,Makeup Doodad,78,2,30,54.6,UPI,
+86,Activity,Swimming,Swimming Paraphernalia,91.99,2,30,64.393,UPI,FALSE
+87,Health,Nutrition,Nutrition Mechanism,114.99,4,40,68.994,UPI,TRUE
+88,Home,Cooking,Cooking Rig,107,1,10,96.3,credit card,FALSE
+89,Entertainment,Game,Game Machine,76.99,2,40,46.194,debit card,TRUE
+90,Automotive,Tire,Tire Rig,35.95,1,,35.95,cash,
+91,Pets,Dog,Dog Gear,133.95,1,5,127.2525,UPI,FALSE
+92,Home,Furniture,Furniture Mechanism,41.95,3,20,33.56,UPI,
+93,Activity,Biking,Biking Accessory,35.99,1,30,25.193,UPI,
+94,Home,Kitchen,Kitchen Supplies,194.99,4,50,97.495,UPI,TRUE
+95,Home,Furniture,Furniture Contraption,196.99,3,10,177.291,credit card,FALSE
+96,Entertainment,Toy,Toy Contraption,101.95,1,,101.95,UPI,FALSE
+97,Pets,Aquarium,Aquarium Mechanism,54.99,4,30,38.493,cash,TRUE
+98,Home,Cleaning,Cleaning Whatchamacallit,177.95,4,30,124.565,debit card,TRUE
+99,Health,Vitamin,Vitamin Implement,158.95,4,20,127.16,debit card,
+100,Home,Home Improvement,Home Improvement Apparatus,130,2,40,78,cash,
+101,Clothing,Baby,Baby Accessory,68,1,50,34,credit card,TRUE
+102,Health,Vitamin,Vitamin Gear,39.99,2,30,27.993,UPI,TRUE
+103,Entertainment,Party,Party Gear,89.99,1,40,53.994,UPI,FALSE
+104,Electronics,Technology,Technology Paraphernalia,108,2,10,97.2,cash,FALSE
+105,Health,Medicine,Medicine Widget,121,4,,121,UPI,
+106,Activity,Sports,Sports Widget,53.99,2,30,37.793,cash,TRUE
+107,Home,Bedding,Bedding Paraphernalia,136,2,5,129.2,debit card,TRUE
+108,Home,Cleaning,Cleaning Thingamajig,158.95,2,10,143.055,credit card,FALSE
+109,Entertainment,Party,Party Paraphernalia,83.95,1,50,41.975,debit card,TRUE
+110,Health,Medicine,Medicine Supplies,146,1,,146,credit card,FALSE
+111,Home,Home Improvement,Home Improvement Thingamajig,44.95,3,10,40.455,debit card,
+112,Home,Cleaning,Cleaning Widget,81.99,1,50,40.995,cash,TRUE
+113,Activity,Camping,Camping Tool,119.95,4,50,59.975,credit card,FALSE
+114,Beauty,Hair Care,Hair Care Mechanism,45.95,2,50,22.975,credit card,TRUE
+115,Electronics,Camera,Camera Supplies,81,4,5,76.95,credit card,FALSE
+116,Activity,Outdoors,Outdoors Tool,148,1,30,103.6,UPI,
+117,Electronics,Computer,Computer Kit,84,1,10,100,cash,
+118,Home,Cooking,Cooking Accessory,118,1,10,106.2,UPI,
+119,Entertainment,Party,Party Thingamajig,175.99,1,50,87.995,debit card,
+120,Entertainment,Music,Music Equipment,16,1,30,11.2,credit card,FALSE
+121,Health,Vitamin,Vitamin Mechanism,180.99,3,10,162.891,debit card,FALSE
+122,Home,Dining,Dining Gizmo,162.99,1,40,97.794,cash,FALSE
+123,Entertainment,Movie,Movie Instrument,80.99,4,20,64.792,UPI,
+124,Activity,Outdoors,Outdoors Paraphernalia,145.99,0,5,138.6905,cash,TRUE
+125,Entertainment,Music,Music Gizmo,123.95,1,5,117.7525,credit card,
+126,Activity,Fitness,Fitness Gizmo,71.99,1,,71.99,UPI,TRUE
+127,Entertainment,Movie,Movie Equipment,95.99,1,10,86.391,cash,FALSE
+128,Activity,Camping,Camping Component,181,2,40,108.6,UPI,FALSE
+129,Entertainment,Game,Game Rig,102,1,5,96.9,debit card,TRUE
+130,Clothing,Baby,Baby Gizmo,110,0,50,55,UPI,TRUE
+131,Entertainment,Toy,Toy Implement,142.95,4,10,128.655,credit card,FALSE
+132,Electronics,Computer,Computer Mechanism,11,2,30,7.7,cash,TRUE
+133,Home,Bedding,Bedding Gizmo,144.99,1,50,72.495,cash,FALSE
+134,Beauty,Hair Care,Hair Care Contraption,103.95,2,10,93.555,debit card,FALSE
+135,Home,Dining,Dining Contraption,49.99,4,30,34.993,credit card,TRUE
+136,Entertainment,Movie,Movie Machine,167.95,3,30,117.565,credit card,FALSE
+137,Pets,Dog,Dog Doodad,106.99,1,10,96.291,debit card,FALSE
+138,Automotive,Truck,Truck Gear,81,1,30,56.7,debit card,
+139,Home,Dining,Dining Accessory,140,1,,140,debit card,TRUE
+140,Entertainment,Party,Party Equipment,31.95,1,10,28.755,debit card,TRUE
+141,Health,Vitamin,Vitamin Accessory,68.95,4,,70,debit card,FALSE
+142,Entertainment,Party,Party Contraption,138.95,1,10,125.055,debit card,
+143,Automotive,Engine,Engine Doodad,149,1,10,134.1,cash,TRUE
+144,Beauty,Skin Care,Skin Care Kit,121,1,5,114.95,credit card,FALSE
+145,Pets,Aquarium,Aquarium Supplies,190.95,0,30,133.665,UPI,TRUE
+146,Electronics,Camera,Camera Paraphernalia,193.99,1,10,174.591,UPI,TRUE
+147,Automotive,Car,Car Component,171.99,2,50,85.995,cash,TRUE
+148,Automotive,Tire,Tire Tool,120.95,1,50,60.475,credit card,FALSE
+149,Home,Dining,Dining Supplies,12.99,1,30,9.093,debit card,
+150,Activity,Beach,Beach Whatchamacallit,192,1,40,115.2,debit card,TRUE
+151,Home,Gardening,Gardening Attachment,111.99,1,5,106.3905,debit card,TRUE
+152,Beauty,Skin Care,Skin Care Accessory,72.99,1,5,69.3405,debit card,
+153,Activity,Swimming,Swimming Implement,187.99,1,10,169.191,UPI,FALSE
+154,Home,Bedding,Bedding Whatchamacallit,127.95,4,5,100,debit card,FALSE
+155,Health,Nutrition,Nutrition Gear,37,1,50,18.5,credit card,TRUE
+156,Electronics,Phone,Phone Component,53,0,,53,credit card,FALSE
+157,Beauty,Hair Care,Hair Care Component,164,1,20,131.2,cash,FALSE
+158,Automotive,Car,Car Supplies,173.99,1,50,86.995,debit card,TRUE
+159,Health,Nutrition,Nutrition Implement,168.95,1,30,118.265,credit card,TRUE
+160,Entertainment,Book,Book Item,66.99,1,50,33.495,credit card,TRUE
+161,Pets,Cat,Cat Kit,35,3,5,33.25,cash,
+162,Entertainment,Music,Music Supplies,192.99,0,5,183.3405,UPI,TRUE
+163,Home,Cooking,Cooking Gizmo,86.95,1,10,78.255,debit card,
+164,Activity,Sports,Sports Supplies,135,1,,135,UPI,FALSE
+165,Clothing,Baby,Baby Attachment,19,4,30,13.3,debit card,FALSE
+166,Entertainment,Game,Game Doodad,22,4,50,5,debit card,
+167,Beauty,Hair Care,Hair Care Instrument,44.95,3,,44.95,UPI,
+168,Entertainment,Toy,Toy Doodad,56.95,3,,56.95,UPI,TRUE
+169,Pets,Cat,Cat Gadget,87.95,3,40,52.77,UPI,FALSE
+170,Activity,Sports,Sports Rig,96,4,10,86.4,UPI,TRUE
+171,Entertainment,Party,Party Gadget,111.95,3,5,106.3525,credit card,
+172,Activity,Fitness,Fitness Mechanism,131,1,5,124.45,cash,TRUE
+173,Home,Cooking,Cooking Paraphernalia,21.95,4,5,20.8525,cash,TRUE
+174,Clothing,Womens,Womens Widget,170.95,1,20,136.76,debit card,TRUE
+175,Home,Bedding,Bedding Instrument,31,0,40,18.6,debit card,
+176,Automotive,Car,Car Apparatus,167.95,0,5,159.5525,cash,TRUE
+177,Pets,Dog,Dog Device,102.99,1,50,51.495,debit card,FALSE
+178,Electronics,Technology,Technology Instrument,41.95,0,40,25.17,debit card,TRUE
+179,Clothing,Mens,Mens Accessory,143,2,30,100.1,credit card,
+180,Electronics,Phone,Phone Thingamajig,64.95,1,40,38.97,UPI,TRUE
+181,Home,Home Improvement,Home Improvement Instrument,197.95,3,5,188.0525,cash,FALSE
+182,Automotive,Engine,Engine Device,23.99,1,10,21.591,cash,FALSE
+183,Health,Medicine,Medicine Gear,86,1,5,81.7,debit card,FALSE
+184,Pets,Dog,Dog Whatchamacallit,179,0,20,143.2,UPI,
+185,Home,Gardening,Gardening Item,182.99,4,5,173.8405,debit card,TRUE
+186,Activity,Sports,Sports Kit,199,3,,199,UPI,
+187,Home,Kitchen,Kitchen Widget,184.95,0,5,175.7025,credit card,
+188,Activity,Beach,Beach Apparatus,190.95,1,50,95.475,cash,TRUE
+189,Home,Furniture,Furniture Instrument,37.99,0,30,26.593,UPI,FALSE
+190,Beauty,Bath,Bath Item,28,2,5,50,debit card,FALSE
+191,Clothing,Mens,Mens Instrument,158.99,4,5,151.0405,debit card,
+192,Home,Storage,Storage Item,157,2,40,94.2,UPI,TRUE
+193,Activity,Beach,Beach Supplies,140,3,,140,cash,TRUE
+194,Home,Storage,Storage Machine,98.99,2,5,94.0405,UPI,
+195,Activity,Swimming,Swimming Gear,174.95,2,40,104.97,cash,
+196,Entertainment,Movie,Movie Attachment,86,2,10,77.4,debit card,TRUE
+197,Activity,Fitness,Fitness Instrument,14.95,4,50,7.475,UPI,TRUE
+198,Entertainment,Music,Music Gear,148.99,4,20,119.192,credit card,FALSE
+199,Automotive,Car,Car Kit,199,1,40,119.4,cash,TRUE
+200,Health,Nutrition,Nutrition Paraphernalia,99,1,20,79.2,UPI,
+201,Activity,Fitness,Fitness Rig,60.95,1,,60.95,debit card,FALSE
+202,Beauty,Skin Care,Skin Care Tool,45,2,50,22.5,credit card,FALSE
+203,Home,Cleaning,Cleaning Apparatus,140.99,1,10,126.891,credit card,FALSE
+204,Automotive,Tire,Tire Gear,53.99,0,30,37.793,debit card,TRUE
+205,Clothing,Kids,Kids Widget,127.95,3,,45,credit card,TRUE
+206,Entertainment,Game,Game Attachment,154.95,2,50,77.475,debit card,
+207,Entertainment,Movie,Movie Supplies,183,0,5,173.85,credit card,
+208,Beauty,Hair Care,Hair Care Gadget,45.95,1,5,43.6525,debit card,
+209,Automotive,Car,Car Equipment,61.95,4,30,43.365,debit card,
+210,Automotive,Engine,Engine Component,135.99,3,20,108.792,debit card,TRUE
+211,Home,Storage,Storage Component,199.99,1,50,99.995,UPI,FALSE
+212,Entertainment,Toy,Toy Component,54.99,4,40,32.994,cash,TRUE
+213,Health,First Aid,First Aid Instrument,35,4,20,28,credit card,
+214,Activity,Camping,Camping Kit,38.99,1,50,19.495,debit card,FALSE
+215,Clothing,Mens,Mens Item,160,1,50,80,debit card,FALSE
+216,Entertainment,Movie,Movie Supplies,158.99,1,5,151.0405,cash,
+217,Entertainment,Game,Game Mechanism,122.99,3,50,61.495,debit card,
+218,Activity,Camping,Camping Component,44.95,3,5,42.7025,UPI,FALSE
+219,Home,Cleaning,Cleaning Implement,190.95,2,10,171.855,cash,FALSE
+220,Home,Storage,Storage Rig,157,1,30,50,credit card,FALSE
+221,Activity,Beach,Beach Attachment,184,2,30,128.8,cash,TRUE
+222,Clothing,Jewelry,Jewelry Paraphernalia,166,3,10,149.4,credit card,
+223,Electronics,Camera,Camera Component,85.99,2,30,60.193,UPI,FALSE
+224,Clothing,Jewelry,Jewelry Mechanism,71.95,1,10,64.755,UPI,FALSE
+225,Home,Dining,Dining Widget,54.95,4,50,27.475,debit card,
+226,Entertainment,Music,Music Kit,138.95,2,10,125.055,credit card,TRUE
+227,Electronics,Phone,Phone Item,150,1,20,120,cash,TRUE
+228,Beauty,Makeup,Makeup Equipment,109.99,0,30,76.993,UPI,FALSE
+229,Activity,Outdoors,Outdoors Paraphernalia,60.95,2,5,57.9025,credit card,TRUE
+230,Home,Home Improvement,Home Improvement Rig,22,1,5,20.9,UPI,FALSE
+231,Entertainment,Toy,Toy Paraphernalia,26.99,2,50,13.495,credit card,FALSE
+232,Clothing,Kids,Kids Gizmo,12,0,5,11.4,UPI,
+233,Home,Kitchen,Kitchen Equipment,111.95,2,40,67.17,credit card,
+234,Beauty,Bath,Bath Thingamajig,31.99,4,40,19.194,debit card,TRUE
+235,Clothing,Baby,Baby Item,83,3,20,66.4,cash,TRUE
+236,Health,Medicine,Medicine Tool,147.95,4,40,88.77,credit card,TRUE
+237,Activity,Fitness,Fitness Doodad,50,3,20,40,cash,
+238,Activity,Camping,Camping Thingamajig,27,0,10,24.3,credit card,TRUE
+239,Activity,Fitness,Fitness Gadget,102.95,0,,102.95,debit card,TRUE
+240,Beauty,Skin Care,Skin Care Rig,31.99,1,10,28.791,debit card,
+241,Activity,Camping,Camping Tool,23.95,3,5,22.7525,UPI,TRUE
+242,Automotive,Engine,Engine Supplies,87.99,3,30,61.593,credit card,TRUE
+243,Entertainment,Book,Book Thingamajig,133.95,1,5,127.2525,UPI,FALSE
+244,Beauty,Personal,Personal Kit,28.99,1,20,25,UPI,TRUE
+245,Electronics,Technology,Technology Gear,37.95,1,40,22.77,debit card,FALSE
+246,Pets,Cat,Cat Widget,173.99,1,,173.99,UPI,FALSE
+247,Automotive,Engine,Engine Gadget,156.95,0,5,150,cash,FALSE
+248,Health,First Aid,First Aid Component,85.99,3,50,42.995,debit card,TRUE
+249,Beauty,Bath,Bath Whatchamacallit,139,1,10,125.1,credit card,
+250,Automotive,Tire,Tire Device,36.99,0,30,25.893,credit card,FALSE
+251,Health,Nutrition,Nutrition Whatchamacallit,43.99,3,50,21.995,cash,TRUE
+252,Clothing,Baby,Baby Component,156.95,2,20,125.56,credit card,
+253,Home,Cleaning,Cleaning Mechanism,168.99,1,,168.99,UPI,TRUE
+254,Beauty,Makeup,Makeup Whatchamacallit,38.99,1,20,31.192,UPI,TRUE
+255,Activity,Swimming,Swimming Whatchamacallit,98,0,10,88.2,debit card,FALSE
+256,Activity,Fitness,Fitness Component,198,1,10,178.2,debit card,FALSE
+257,Automotive,Truck,Truck Contraption,23.99,3,30,16.793,UPI,FALSE
+258,Home,Cooking,Cooking Paraphernalia,124,4,30,86.8,credit card,TRUE
+259,Activity,Swimming,Swimming Doodad,152.95,3,30,107.065,UPI,FALSE
+260,Clothing,Baby,Baby Paraphernalia,162.99,2,20,130.392,debit card,TRUE
+261,Health,Medicine,Medicine Implement,54,2,5,51.3,credit card,TRUE
+262,Activity,Camping,Camping Gizmo,15.99,1,50,7.995,cash,TRUE
+263,Automotive,Truck,Truck Tool,18.99,3,30,13.293,cash,
+264,Health,Vitamin,Vitamin Mechanism,11.95,0,40,7.17,credit card,TRUE
+265,Home,Cleaning,Cleaning Device,177,0,20,141.6,debit card,TRUE
+266,Entertainment,Toy,Toy Rig,146.95,2,30,90,UPI,TRUE
+267,Entertainment,Music,Music Gizmo,149.95,4,5,142.4525,credit card,FALSE
+268,Electronics,Camera,Camera Accessory,49.95,1,40,29.97,UPI,TRUE
+269,Electronics,Camera,Camera Widget,150,2,50,75,UPI,
+270,Home,Dining,Dining Widget,10,2,,10,debit card,FALSE
+271,Beauty,Bath,Bath Kit,49.95,2,,49.95,UPI,
+272,Activity,Swimming,Swimming Paraphernalia,168.99,4,30,118.293,cash,TRUE
+273,Activity,Outdoors,Outdoors Tool,193.95,1,30,135.765,debit card,FALSE
+274,Automotive,Engine,Engine Tool,196.99,2,,196.99,cash,FALSE
+275,Health,Medicine,Medicine Contraption,138.95,3,10,125.055,debit card,TRUE
+276,Activity,Outdoors,Outdoors Mechanism,109,2,30,76.3,UPI,TRUE
+277,Pets,Cat,Cat Paraphernalia,158.99,4,5,151.0405,credit card,FALSE
+278,Electronics,Computer,Computer Device,131.95,3,40,79.17,credit card,FALSE
+279,Automotive,Engine,Engine Attachment,162.95,1,,162.95,UPI,TRUE
+280,Home,Home Improvement,Home Improvement Attachment,117.95,1,10,106.155,credit card,TRUE
+281,Entertainment,Party,Party Contraption,109,0,5,103.55,cash,TRUE
+282,Electronics,Phone,Phone Accessory,109,0,40,65.4,UPI,
+283,Activity,Camping,Camping Device,193.95,1,30,135.765,credit card,FALSE
+284,Health,Medicine,Medicine Mechanism,173.99,4,50,86.995,cash,
+285,Clothing,Mens,Mens Device,169.95,1,40,101.97,UPI,TRUE
+286,Electronics,Computer,Computer Contraption,86.95,2,20,69.56,debit card,TRUE
+287,Health,Nutrition,Nutrition Supplies,92.99,3,50,40,UPI,FALSE
+288,Activity,Swimming,Swimming Supplies,65,2,20,52,credit card,
+289,Clothing,Womens,Womens Accessory,77.95,1,30,54.565,UPI,FALSE
+290,Entertainment,Music,Music Apparatus,98.99,3,20,79.192,UPI,TRUE
+291,Home,Gardening,Gardening Implement,38,2,40,22.8,UPI,
+292,Entertainment,Movie,Movie Machine,70.99,2,40,42.594,debit card,FALSE
+293,Beauty,Makeup,Makeup Instrument,135.99,2,50,67.995,UPI,
+294,Beauty,Makeup,Makeup Contraption,10,2,10,9,UPI,TRUE
+295,Home,Bedding,Bedding Machine,53.95,0,10,48.555,debit card,FALSE
+296,Beauty,Skin Care,Skin Care Thingamajig,37.99,4,,37.99,UPI,
+297,Activity,Fitness,Fitness Machine,197.99,0,30,138.593,credit card,
+298,Home,Furniture,Furniture Doodad,138.99,1,20,111.192,debit card,TRUE
+299,Entertainment,Party,Party Contraption,32,1,10,28.8,cash,FALSE
+300,Automotive,Truck,Truck Apparatus,114.95,4,20,91.96,debit card,
+301,Beauty,Makeup,Makeup Kit,42.99,1,30,30.093,UPI,FALSE
+302,Automotive,Car,Car Implement,129.99,1,40,77.994,credit card,FALSE
+303,Entertainment,Toy,Toy Paraphernalia,100.99,1,10,90.891,credit card,
+304,Clothing,Womens,Womens Device,137.99,1,40,82.794,cash,FALSE
+305,Clothing,Jewelry,Jewelry Mechanism,165.95,3,30,115,credit card,TRUE
+306,Automotive,Engine,Engine Mechanism,28,1,40,16.8,debit card,FALSE
+307,Beauty,Hair Care,Hair Care Rig,41.99,3,10,37.791,credit card,TRUE
+308,Electronics,Phone,Phone Doodad,133.99,3,,133.99,credit card,TRUE
+309,Entertainment,Movie,Movie Gadget,123,2,5,116.85,cash,FALSE
+310,Entertainment,Toy,Toy Machine,108.95,2,5,103.5025,credit card,
+311,Clothing,Baby,Baby Accessory,102.99,2,40,61.794,credit card,FALSE
+312,Clothing,Jewelry,Jewelry Component,57.95,1,30,40.565,debit card,TRUE
+313,Activity,Swimming,Swimming Apparatus,94.95,2,10,85.455,UPI,FALSE
+314,Beauty,Bath,Bath Paraphernalia,196.99,1,30,137.893,debit card,TRUE
+315,Electronics,Computer,Computer Accessory,81.95,2,40,49.17,cash,TRUE
+316,Automotive,Engine,Engine Attachment,132,3,50,66,UPI,TRUE
+317,Beauty,Skin Care,Skin Care Paraphernalia,62.99,1,20,50.392,debit card,FALSE
+318,Health,Vitamin,Vitamin Accessory,43.99,4,40,26.394,debit card,
+319,Activity,Swimming,Swimming Gadget,81.99,0,20,65.592,debit card,FALSE
+320,Beauty,Skin Care,Skin Care Gizmo,64.99,3,50,35,cash,TRUE
+321,Activity,Fitness,Fitness Instrument,166,2,10,149.4,cash,FALSE
+322,Electronics,Camera,Camera Implement,197.99,4,40,118.794,credit card,FALSE
+323,Health,Medicine,Medicine Component,40.99,1,30,28.693,cash,FALSE
+324,Pets,Cat,Cat Thingamajig,171.99,2,40,103.194,UPI,FALSE
+325,Entertainment,Movie,Movie Gear,155.95,3,5,148.1525,UPI,
+326,Clothing,Jewelry,Jewelry Doodad,179.95,2,10,161.955,credit card,
+327,Activity,Outdoors,Outdoors Machine,127,3,40,76.2,UPI,
+328,Health,Vitamin,Vitamin Supplies,131,0,40,78.6,debit card,TRUE
+329,Home,Bedding,Bedding Machine,22,1,,22,debit card,
+330,Activity,Camping,Camping Widget,121,1,40,72.6,credit card,TRUE
+331,Clothing,Baby,Baby Gear,102,1,20,81.6,UPI,
+332,Automotive,Engine,Engine Item,11.99,2,,11.99,cash,TRUE
+333,Entertainment,Toy,Toy Gear,152.99,4,40,91.794,UPI,FALSE
+334,Home,Storage,Storage Item,162.99,1,,162.99,credit card,FALSE
+335,Pets,Dog,Dog Mechanism,47,3,,47,credit card,FALSE
+336,Activity,Fitness,Fitness Device,199,4,30,139.3,debit card,FALSE
+337,Home,Storage,Storage Instrument,129,2,,129,cash,TRUE
+338,Health,First Aid,First Aid Equipment,188.95,1,10,170.055,UPI,FALSE
+339,Entertainment,Music,Music Accessory,179.95,2,5,170.9525,cash,
+340,Automotive,Engine,Engine Kit,74,0,50,37,cash,FALSE
+341,Home,Kitchen,Kitchen Supplies,87.99,2,10,79.191,UPI,FALSE
+342,Clothing,Baby,Baby Machine,119,1,20,95.2,credit card,
+343,Health,First Aid,First Aid Gear,189.99,1,30,132.993,credit card,TRUE
+344,Electronics,Technology,Technology Gear,73,1,10,65.7,credit card,FALSE
+345,Beauty,Personal,Personal Accessory,106.99,1,20,85.592,UPI,TRUE
+346,Health,First Aid,First Aid Implement,19,0,,19,debit card,FALSE
+347,Beauty,Skin Care,Skin Care Widget,123.99,0,30,86.793,debit card,TRUE
+348,Home,Storage,Storage Item,57.99,3,30,40.593,UPI,
+349,Entertainment,Game,Game Whatchamacallit,156,4,20,124.8,credit card,TRUE
+350,Electronics,Camera,Camera Rig,164.95,2,10,148.455,credit card,FALSE
+351,Health,Vitamin,Vitamin Kit,52.99,2,30,37.093,debit card,
+352,Automotive,Car,Car Thingamajig,53.95,4,10,48.555,debit card,
+353,Entertainment,Movie,Movie Doodad,187.99,1,,187.99,credit card,FALSE
+354,Electronics,Technology,Technology Component,82.99,1,40,49.794,cash,FALSE
+355,Home,Cooking,Cooking Apparatus,156.99,1,30,109.893,UPI,FALSE
+356,Clothing,Womens,Womens Apparatus,78.99,4,10,71.091,cash,FALSE
+357,Entertainment,Party,Party Gizmo,79.95,1,40,47.97,cash,FALSE
+358,Entertainment,Book,Book Equipment,23.95,1,20,19.16,cash,FALSE
+359,Entertainment,Party,Party Accessory,195.99,0,10,176.391,cash,FALSE
+360,Health,Vitamin,Vitamin Kit,142,3,40,85.2,cash,FALSE
+361,Electronics,Computer,Computer Component,143.95,4,40,86.37,credit card,TRUE
+362,Electronics,Phone,Phone Attachment,13.95,1,,13.95,credit card,
+363,Clothing,Kids,Kids Tool,187.95,3,5,178.5525,cash,TRUE
+364,Clothing,Jewelry,Jewelry Apparatus,61.99,4,10,55.791,UPI,FALSE
+365,Clothing,Kids,Kids Paraphernalia,131.99,3,10,118.791,UPI,TRUE
+366,Health,First Aid,First Aid Equipment,187.99,3,30,131.593,cash,FALSE
+367,Activity,Fitness,Fitness Thingamajig,17.95,4,5,17.0525,UPI,TRUE
+368,Activity,Biking,Biking Machine,104,3,10,93.6,cash,FALSE
+369,Activity,Sports,Sports Gadget,42.95,3,5,40.8025,credit card,TRUE
+370,Entertainment,Book,Book Whatchamacallit,150.99,4,40,90.594,UPI,TRUE
+371,Automotive,Car,Car Whatchamacallit,127.99,2,,127.99,credit card,FALSE
+372,Beauty,Makeup,Makeup Equipment,152,3,,152,credit card,TRUE
+373,Clothing,Jewelry,Jewelry Supplies,126.95,0,10,114.255,debit card,FALSE
+374,Automotive,Engine,Engine Rig,97,4,,97,debit card,TRUE
+375,Health,Nutrition,Nutrition Thingamajig,27,1,5,25.65,UPI,FALSE
+376,Electronics,Phone,Phone Doodad,181.99,2,10,163.791,debit card,FALSE
+377,Clothing,Jewelry,Jewelry Equipment,118.99,3,5,113.0405,UPI,FALSE
+378,Entertainment,Party,Party Paraphernalia,105,3,10,94.5,UPI,
+379,Home,Storage,Storage Apparatus,120.99,1,10,108.891,credit card,TRUE
+380,Activity,Sports,Sports Gadget,30,2,20,24,UPI,FALSE
+381,Home,Storage,Storage Supplies,137.99,4,5,131.0905,cash,
+382,Activity,Fitness,Fitness Gizmo,64,1,40,38.4,UPI,TRUE
+383,Home,Storage,Storage Item,181.99,1,50,90.995,debit card,FALSE
+384,Home,Cleaning,Cleaning Apparatus,21,3,,21,cash,
+385,Home,Furniture,Furniture Supplies,12.95,4,40,7.77,UPI,FALSE
+386,Activity,Biking,Biking Implement,173.99,0,5,165.2905,UPI,FALSE
+387,Entertainment,Game,Game Item,112.95,1,30,79.065,UPI,TRUE
+388,Health,Nutrition,Nutrition Device,118.99,1,20,95.192,cash,TRUE
+389,Clothing,Jewelry,Jewelry Mechanism,66.95,2,10,60.255,cash,TRUE
+390,Health,Medicine,Medicine Component,79.99,1,40,47.994,debit card,FALSE
+391,Activity,Fitness,Fitness Component,90.99,2,20,72.792,cash,
+392,Pets,Dog,Dog Contraption,174.95,3,,174.95,debit card,FALSE
+393,Activity,Camping,Camping Component,69.95,1,10,62.955,debit card,FALSE
+394,Activity,Fitness,Fitness Supplies,139.95,3,10,125.955,UPI,TRUE
+395,Beauty,Makeup,Makeup Machine,164,1,50,82,UPI,TRUE
+396,Activity,Fitness,Fitness Tool,14,1,10,12.6,debit card,TRUE
+397,Beauty,Skin Care,Skin Care Implement,13.95,4,,13.95,UPI,
+398,Health,Medicine,Medicine Component,38.99,3,,38.99,credit card,FALSE
+399,Home,Storage,Storage Component,28.95,2,40,17.37,debit card,FALSE
+400,Home,Gardening,Gardening Gadget,199,4,50,99.5,credit card,FALSE
+401,Health,Nutrition,Nutrition Supplies,52.95,2,30,40,UPI,
+402,Entertainment,Party,Party Implement,46,1,20,36.8,UPI,FALSE
+403,Beauty,Bath,Bath Rig,13.95,4,20,11.16,debit card,FALSE
+404,Beauty,Personal,Personal Device,63.95,4,50,31.975,cash,FALSE
+405,Beauty,Hair Care,Hair Care Accessory,119,2,,119,credit card,FALSE
+406,Clothing,Kids,Kids Accessory,58,2,20,46.4,UPI,
+407,Home,Storage,Storage Device,191,1,,191,UPI,FALSE
+408,Automotive,Car,Car Rig,26,1,50,13,credit card,FALSE
+409,Activity,Camping,Camping Implement,171.99,0,10,154.791,UPI,FALSE
+410,Beauty,Skin Care,Skin Care Gear,157.95,2,5,150.0525,debit card,FALSE
+411,Activity,Outdoors,Outdoors Apparatus,197.95,4,50,98.975,cash,TRUE
+412,Entertainment,Toy,Toy Supplies,129.99,4,10,116.991,debit card,FALSE
+413,Beauty,Makeup,Makeup Accessory,47.95,1,20,38.36,UPI,TRUE
+414,Beauty,Skin Care,Skin Care Implement,70.99,4,20,56.792,cash,
+415,Entertainment,Movie,Movie Gadget,88.99,1,30,62.293,cash,TRUE
+416,Beauty,Skin Care,Skin Care Instrument,88.99,1,50,44.495,credit card,TRUE
+417,Home,Dining,Dining Contraption,112,3,30,78.4,credit card,FALSE
+418,Entertainment,Game,Game Whatchamacallit,153.95,3,20,123.16,debit card,TRUE
+419,Home,Gardening,Gardening Doodad,106.95,2,10,96.255,debit card,FALSE
+420,Home,Gardening,Gardening Instrument,170.99,1,5,162.4405,credit card,TRUE
+421,Electronics,Computer,Computer Component,173.95,1,30,121.765,cash,TRUE
+422,Clothing,Kids,Kids Kit,160,1,,160,cash,TRUE
+423,Clothing,Womens,Womens Paraphernalia,81,3,5,76.95,credit card,TRUE
+424,Activity,Sports,Sports Gadget,195,2,20,156,credit card,FALSE
+425,Beauty,Hair Care,Hair Care Thingamajig,14.95,1,20,11.96,credit card,TRUE
+426,Entertainment,Party,Party Contraption,46.95,4,10,42.255,credit card,
+427,Electronics,Computer,Computer Tool,100,2,40,60,debit card,TRUE
+428,Activity,Beach,Beach Rig,62.95,2,50,31.475,cash,FALSE
+429,Clothing,Mens,Mens Paraphernalia,135.99,1,50,67.995,credit card,FALSE
+430,Automotive,Truck,Truck Thingamajig,158,3,50,79,cash,FALSE
+431,Entertainment,Toy,Toy Accessory,118,1,,118,UPI,
+432,Beauty,Bath,Bath Machine,58.95,4,10,53.055,credit card,TRUE
+433,Beauty,Personal,Personal Gizmo,171.95,4,50,85.975,debit card,TRUE
+434,Electronics,Technology,Technology Gizmo,47.99,1,40,28.794,cash,FALSE
+435,Clothing,Jewelry,Jewelry Doodad,185,4,20,148,UPI,TRUE
+436,Beauty,Skin Care,Skin Care Rig,20.99,2,20,16.792,credit card,TRUE
+437,Activity,Swimming,Swimming Apparatus,49.95,2,10,44.955,debit card,TRUE
+438,Clothing,Mens,Mens Implement,184.95,4,40,110.97,debit card,FALSE
+439,Home,Cooking,Cooking Mechanism,157,3,5,149.15,credit card,
+440,Health,Vitamin,Vitamin Contraption,50.95,4,,50.95,debit card,FALSE
+441,Home,Furniture,Furniture Apparatus,161.99,2,20,129.592,credit card,
+442,Activity,Fitness,Fitness Machine,110.99,2,50,55.495,credit card,TRUE
+443,Pets,Cat,Cat Implement,68.99,0,40,41.394,debit card,TRUE
+444,Entertainment,Book,Book Device,111,4,50,55.5,UPI,TRUE
+445,Entertainment,Movie,Movie Contraption,135,4,40,81,UPI,TRUE
+446,Electronics,Technology,Technology Widget,41.99,1,,41.99,UPI,TRUE
+447,Health,First Aid,First Aid Supplies,103,1,50,51.5,debit card,FALSE
+448,Pets,Cat,Cat Implement,15,1,10,13.5,debit card,FALSE
+449,Entertainment,Movie,Movie Gear,146,2,20,116.8,debit card,FALSE
+450,Home,Storage,Storage Equipment,93.99,0,20,75.192,debit card,TRUE
+451,Home,Cooking,Cooking Gear,166.95,2,10,160,cash,
+452,Health,Nutrition,Nutrition Implement,193.99,2,,193.99,UPI,TRUE
+453,Pets,Aquarium,Aquarium Attachment,84.95,4,,84.95,UPI,FALSE
+454,Beauty,Personal,Personal Gadget,126.95,1,10,114.255,credit card,FALSE
+455,Electronics,Camera,Camera Item,39.95,1,30,27.965,credit card,TRUE
+456,Automotive,Car,Car Equipment,120.95,1,40,72.57,UPI,
+457,Activity,Sports,Sports Instrument,162.95,2,30,114.065,UPI,TRUE
+458,Automotive,Engine,Engine Mechanism,188,1,10,169.2,credit card,TRUE
+459,Entertainment,Book,Book Device,146,1,20,116.8,cash,FALSE
+460,Activity,Beach,Beach Gear,35.99,4,50,17.995,credit card,
+461,Clothing,Jewelry,Jewelry Equipment,112.99,3,5,107.3405,credit card,FALSE
+462,Beauty,Hair Care,Hair Care Accessory,180.95,4,5,171.9025,credit card,TRUE
+463,Activity,Sports,Sports Paraphernalia,128.95,1,30,90.265,UPI,FALSE
+464,Home,Home Improvement,Home Improvement Mechanism,29.99,3,40,17.994,debit card,TRUE
+465,Clothing,Jewelry,Jewelry Supplies,49.95,4,10,44.955,debit card,FALSE
+466,Entertainment,Movie,Movie Equipment,87,3,20,69.6,cash,FALSE
+467,Entertainment,Music,Music Widget,65.95,0,30,46.165,debit card,FALSE
+468,Clothing,Baby,Baby Doodad,167.95,3,30,117.565,debit card,FALSE
+469,Entertainment,Book,Book Component,119.95,4,20,95.96,debit card,FALSE
+470,Home,Kitchen,Kitchen Tool,27.99,3,30,19.593,cash,TRUE
+471,Entertainment,Movie,Movie Gear,90,2,40,54,cash,FALSE
+472,Home,Furniture,Furniture Whatchamacallit,193,1,5,183.35,UPI,TRUE
+473,Home,Storage,Storage Whatchamacallit,132.95,2,10,119.655,UPI,FALSE
+474,Beauty,Bath,Bath Implement,195,1,,195,UPI,TRUE
+475,Entertainment,Party,Party Instrument,49.95,4,50,24.975,debit card,TRUE
+476,Entertainment,Book,Book Thingamajig,139.95,2,20,111.96,debit card,TRUE
+477,Electronics,Phone,Phone Attachment,70,1,,70,debit card,TRUE
+478,Electronics,Camera,Camera Gizmo,56.99,4,10,51.291,cash,
+479,Automotive,Car,Car Thingamajig,60,1,20,48,debit card,TRUE
+480,Home,Cooking,Cooking Thingamajig,82.99,4,40,49.794,debit card,
+481,Beauty,Makeup,Makeup Attachment,85,3,50,42.5,debit card,FALSE
+482,Entertainment,Toy,Toy Equipment,170,1,10,153,debit card,TRUE
+483,Entertainment,Book,Book Gear,160.99,1,20,128.792,UPI,FALSE
+484,Home,Cleaning,Cleaning Accessory,128.99,3,40,77.394,UPI,FALSE
+485,Health,Nutrition,Nutrition Doodad,11.99,3,30,8.393,cash,FALSE
+486,Home,Kitchen,Kitchen Doodad,126.99,3,40,76.194,cash,
+487,Home,Cleaning,Cleaning Device,103.99,1,50,51.995,debit card,FALSE
+488,Activity,Sports,Sports Paraphernalia,191.95,1,30,134.365,credit card,FALSE
+489,Electronics,Phone,Phone Contraption,171.95,1,,171.95,cash,TRUE
+490,Home,Cleaning,Cleaning Thingamajig,24,1,40,14.4,debit card,
+491,Beauty,Skin Care,Skin Care Thingamajig,173.95,1,50,86.975,cash,FALSE
+492,Automotive,Engine,Engine Whatchamacallit,101.95,4,20,81.56,cash,TRUE
+493,Beauty,Skin Care,Skin Care Supplies,118.99,1,50,59.495,cash,FALSE
+494,Health,Nutrition,Nutrition Thingamajig,117.95,1,50,58.975,debit card,FALSE
+495,Home,Home Improvement,Home Improvement Thingamajig,165,1,5,156.75,credit card,TRUE
+496,Electronics,Camera,Camera Tool,24.95,0,5,23.7025,UPI,
+497,Activity,Beach,Beach Item,120,1,40,72,debit card,TRUE
+498,Clothing,Jewelry,Jewelry Rig,53.95,1,10,48.555,credit card,FALSE
+499,Activity,Biking,Biking Component,32.95,3,,32.95,debit card,TRUE
+500,Health,Vitamin,Vitamin Tool,10.99,3,20,8.792,debit card,FALSE
+501,Home,Bedding,Bedding Apparatus,66.95,2,40,40.17,credit card,TRUE
+502,Home,Furniture,Furniture Implement,158,1,40,94.8,debit card,
+503,Activity,Camping,Camping Doodad,42.95,4,5,40.8025,credit card,
+504,Home,Gardening,Gardening Implement,176,1,5,167.2,cash,TRUE
+505,Automotive,Truck,Truck Rig,44,1,5,41.8,credit card,FALSE
+506,Home,Furniture,Furniture Attachment,72.99,1,,72.99,cash,
+507,Home,Cooking,Cooking Apparatus,84.99,4,40,50.994,debit card,
+508,Clothing,Womens,Womens Component,132,1,50,66,cash,FALSE
+509,Entertainment,Music,Music Equipment,147.99,1,50,73.995,debit card,FALSE
+510,Activity,Swimming,Swimming Instrument,143.99,2,20,115.192,credit card,TRUE
+511,Home,Gardening,Gardening Mechanism,46,3,5,43.7,debit card,TRUE
+512,Activity,Swimming,Swimming Kit,127.95,1,5,121.5525,UPI,TRUE
+513,Entertainment,Game,Game Device,22.99,2,20,18.392,credit card,TRUE
+514,Entertainment,Movie,Movie Item,37.95,3,40,22.77,cash,TRUE
+515,Activity,Camping,Camping Gear,81.95,4,20,65.56,debit card,
+516,Automotive,Tire,Tire Thingamajig,74.95,2,30,52.465,cash,
+517,Home,Gardening,Gardening Rig,144.99,4,30,101.493,credit card,FALSE
+518,Home,Cleaning,Cleaning Gear,122,1,10,109.8,cash,
+519,Home,Home Improvement,Home Improvement Widget,56,2,30,39.2,UPI,
+520,Clothing,Kids,Kids Instrument,57.95,2,,57.95,debit card,TRUE
+521,Home,Kitchen,Kitchen Gizmo,61.99,3,5,58.8905,credit card,FALSE
+522,Activity,Outdoors,Outdoors Kit,30.99,1,5,29.4405,cash,FALSE
+523,Beauty,Bath,Bath Kit,121.99,0,5,115.8905,cash,FALSE
+524,Electronics,Camera,Camera Supplies,102.95,1,30,72.065,credit card,FALSE
+525,Clothing,Mens,Mens Instrument,199.99,2,50,99.995,UPI,TRUE
+526,Home,Dining,Dining Tool,110.95,2,10,99.855,debit card,
+527,Activity,Camping,Camping Gadget,52.99,0,30,37.093,credit card,TRUE
+528,Activity,Outdoors,Outdoors Gizmo,42,3,20,33.6,cash,
+529,Automotive,Tire,Tire Accessory,192.99,2,10,173.691,debit card,TRUE
+530,Automotive,Truck,Truck Attachment,156.99,2,30,109.893,debit card,TRUE
+531,Entertainment,Movie,Movie Rig,159.99,1,40,95.994,credit card,FALSE
+532,Electronics,Phone,Phone Rig,177,4,40,106.2,credit card,TRUE
+533,Entertainment,Movie,Movie Rig,72.99,4,20,58.392,UPI,FALSE
+534,Home,Cooking,Cooking Mechanism,83.95,2,30,58.765,cash,TRUE
+535,Home,Kitchen,Kitchen Supplies,45.99,1,,45.99,credit card,
+536,Home,Cooking,Cooking Rig,168.95,1,20,150,UPI,TRUE
+537,Electronics,Phone,Phone Item,32.99,2,20,26.392,credit card,TRUE
+538,Home,Kitchen,Kitchen Item,13,2,,13,cash,FALSE
+539,Electronics,Computer,Computer Apparatus,24.99,1,20,19.992,UPI,TRUE
+540,Pets,Dog,Dog Equipment,43.99,4,5,41.7905,UPI,
+541,Activity,Fitness,Fitness Rig,171,4,10,153.9,debit card,
+542,Activity,Outdoors,Outdoors Contraption,193,2,,193,credit card,
+543,Entertainment,Music,Music Rig,45,3,30,31.5,debit card,
+544,Electronics,Phone,Phone Gizmo,82,2,50,41,credit card,TRUE
+545,Home,Cleaning,Cleaning Whatchamacallit,98.95,0,40,59.37,debit card,FALSE
+546,Activity,Swimming,Swimming Contraption,188,2,,188,debit card,FALSE
+547,Home,Storage,Storage Accessory,97.95,2,10,88.155,credit card,TRUE
+548,Beauty,Skin Care,Skin Care Widget,186.99,1,10,168.291,UPI,TRUE
+549,Home,Cooking,Cooking Component,127.99,0,5,121.5905,credit card,FALSE
+550,Automotive,Truck,Truck Equipment,18.95,3,20,15.16,cash,TRUE
+551,Home,Storage,Storage Doodad,126.99,1,10,114.291,debit card,FALSE
+552,Electronics,Computer,Computer Item,43.95,3,,43.95,cash,TRUE
+553,Home,Gardening,Gardening Rig,90.99,1,10,81.891,cash,TRUE
+554,Health,Nutrition,Nutrition Tool,120.99,1,50,60.495,cash,FALSE
+555,Electronics,Technology,Technology Gadget,36,4,10,32.4,UPI,FALSE
+556,Home,Cleaning,Cleaning Tool,105.95,2,,105.95,UPI,FALSE
+557,Clothing,Kids,Kids Gizmo,36.99,2,50,18.495,debit card,FALSE
+558,Beauty,Makeup,Makeup Kit,150.95,2,,150.95,debit card,TRUE
+559,Beauty,Makeup,Makeup Implement,175,1,30,122.5,cash,
+560,Home,Furniture,Furniture Thingamajig,83.95,0,10,80,credit card,FALSE
+561,Automotive,Truck,Truck Equipment,20.95,2,20,16.76,UPI,FALSE
+562,Home,Home Improvement,Home Improvement Widget,66.99,4,5,63.6405,debit card,TRUE
+563,Home,Gardening,Gardening Contraption,148.99,2,20,119.192,debit card,
+564,Health,First Aid,First Aid Device,147.99,2,50,73.995,debit card,FALSE
+565,Home,Gardening,Gardening Apparatus,55,3,40,33,UPI,TRUE
+566,Health,Medicine,Medicine Instrument,90.99,4,5,86.4405,debit card,FALSE
+567,Clothing,Kids,Kids Device,80.95,2,20,64.76,debit card,TRUE
+568,Clothing,Jewelry,Jewelry Accessory,41,1,20,32.8,debit card,
+569,Pets,Dog,Dog Mechanism,92.95,4,,92.95,credit card,TRUE
+570,Clothing,Kids,Kids Item,81.95,1,40,49.17,UPI,
+571,Home,Kitchen,Kitchen Thingamajig,100,1,5,95,cash,
+572,Beauty,Bath,Bath Apparatus,61.95,0,40,37.17,credit card,FALSE
+573,Beauty,Hair Care,Hair Care Component,27.95,1,40,16.77,UPI,
+574,Pets,Cat,Cat Accessory,199.95,4,20,159.96,cash,TRUE
+575,Activity,Camping,Camping Device,162.95,1,20,130.36,UPI,TRUE
+576,Beauty,Hair Care,Hair Care Rig,98.95,3,20,79.16,debit card,
+577,Home,Kitchen,Kitchen Accessory,37.95,1,10,34.155,UPI,FALSE
+578,Entertainment,Book,Book Apparatus,163.99,0,10,147.591,cash,TRUE
+579,Clothing,Womens,Womens Item,26,3,10,23.4,credit card,FALSE
+580,Automotive,Engine,Engine Machine,32,3,20,25.6,UPI,FALSE
+581,Automotive,Car,Car Gear,63.99,3,50,31.995,UPI,FALSE
+582,Pets,Dog,Dog Device,123,0,50,61.5,credit card,
+583,Home,Furniture,Furniture Apparatus,135.95,4,,135.95,credit card,FALSE
+584,Clothing,Mens,Mens Item,54.95,2,40,32.97,credit card,FALSE
+585,Health,First Aid,First Aid Supplies,51.99,1,20,41.592,credit card,
+586,Beauty,Hair Care,Hair Care Paraphernalia,86.99,1,30,60.893,debit card,FALSE
+587,Electronics,Phone,Phone Thingamajig,192.95,0,20,154.36,debit card,FALSE
+588,Automotive,Tire,Tire Mechanism,127,1,,127,credit card,
+589,Automotive,Car,Car Contraption,40,4,50,20,cash,
+590,Home,Cooking,Cooking Widget,43,1,30,30.1,UPI,
+591,Beauty,Makeup,Makeup Implement,57.95,3,5,55.0525,UPI,TRUE
+592,Entertainment,Music,Music Widget,154.99,1,10,139.491,UPI,TRUE
+593,Pets,Cat,Cat Kit,42.95,0,,42.95,credit card,TRUE
+594,Electronics,Phone,Phone Item,182,2,5,172.9,cash,FALSE
+595,Entertainment,Movie,Movie Rig,53.99,1,50,26.995,debit card,FALSE
+596,Activity,Fitness,Fitness Item,170.95,2,5,162.4025,cash,FALSE
+597,Electronics,Phone,Phone Mechanism,138,3,30,96.6,credit card,FALSE
+598,Beauty,Bath,Bath Supplies,61.95,4,,61.95,credit card,
+599,Automotive,Tire,Tire Instrument,182.99,1,30,128.093,credit card,TRUE
+600,Health,Nutrition,Nutrition Thingamajig,25.99,3,10,23.391,credit card,
+601,Entertainment,Toy,Toy Attachment,177,3,10,159.3,credit card,TRUE
+602,Beauty,Personal,Personal Item,58.99,1,,58.99,debit card,FALSE
+603,Health,Nutrition,Nutrition Whatchamacallit,42.95,1,40,25.77,debit card,FALSE
+604,Pets,Aquarium,Aquarium Widget,32.99,3,30,23.093,cash,TRUE
+605,Home,Dining,Dining Gear,163.95,0,30,114.765,UPI,TRUE
+606,Clothing,Mens,Mens Doodad,154.95,2,40,92.97,cash,FALSE
+607,Automotive,Tire,Tire Whatchamacallit,193.95,1,20,155.16,debit card,TRUE
+608,Activity,Sports,Sports Contraption,141.99,1,5,134.8905,UPI,FALSE
+609,Health,Nutrition,Nutrition Implement,60.95,4,30,42.665,cash,FALSE
+610,Home,Kitchen,Kitchen Thingamajig,42.99,3,20,34.392,cash,FALSE
+611,Health,Medicine,Medicine Item,12,1,10,10.8,debit card,FALSE
+612,Electronics,Technology,Technology Doodad,55.95,2,20,44.76,credit card,
+613,Health,Nutrition,Nutrition Contraption,184.99,1,10,166.491,credit card,
+614,Entertainment,Movie,Movie Implement,186.95,1,30,130.865,UPI,TRUE
+615,Home,Furniture,Furniture Supplies,170.95,3,5,162.4025,UPI,FALSE
+616,Clothing,Jewelry,Jewelry Widget,177,1,5,168.15,debit card,TRUE
+617,Clothing,Womens,Womens Thingamajig,22.95,4,5,21.8025,UPI,FALSE
+618,Home,Home Improvement,Home Improvement Gizmo,123.99,2,,123.99,cash,
+619,Health,Nutrition,Nutrition Contraption,11,1,50,5.5,UPI,
+620,Electronics,Phone,Phone Supplies,144.95,1,40,86.97,credit card,TRUE
+621,Pets,Dog,Dog Widget,174.95,1,50,87.475,UPI,TRUE
+622,Pets,Dog,Dog Contraption,12,3,30,8.4,cash,TRUE
+623,Entertainment,Book,Book Apparatus,50.99,3,50,25.495,cash,TRUE
+624,Clothing,Womens,Womens Device,189.99,1,5,180.4905,cash,TRUE
+625,Clothing,Mens,Mens Attachment,104.99,3,40,62.994,UPI,TRUE
+626,Home,Furniture,Furniture Mechanism,47.99,1,,47.99,UPI,FALSE
+627,Electronics,Technology,Technology Device,182.95,1,40,109.77,credit card,FALSE
+628,Pets,Aquarium,Aquarium Equipment,54.99,1,5,52.2405,credit card,
+629,Activity,Outdoors,Outdoors Widget,39.95,2,40,23.97,UPI,
+630,Health,Nutrition,Nutrition Machine,77,3,50,38.5,cash,FALSE
+631,Home,Kitchen,Kitchen Kit,39.95,1,30,27.965,credit card,FALSE
+632,Entertainment,Movie,Movie Supplies,166.95,2,20,133.56,debit card,
+633,Electronics,Computer,Computer Gear,182.99,4,30,128.093,UPI,
+634,Home,Cooking,Cooking Accessory,47.95,3,30,33.565,UPI,TRUE
+635,Clothing,Kids,Kids Instrument,73,1,5,69.35,debit card,FALSE
+636,Entertainment,Party,Party Thingamajig,99.99,2,5,94.9905,UPI,
+637,Pets,Aquarium,Aquarium Device,67.99,4,5,64.5905,credit card,TRUE
+638,Activity,Beach,Beach Item,93,4,40,55.8,debit card,FALSE
+639,Health,Medicine,Medicine Whatchamacallit,30.99,2,30,21.693,UPI,TRUE
+640,Clothing,Mens,Mens Apparatus,26.99,3,20,21.592,credit card,FALSE
+641,Home,Kitchen,Kitchen Tool,185.99,0,10,167.391,debit card,FALSE
+642,Electronics,Technology,Technology Rig,45.99,4,50,22.995,UPI,
+643,Home,Furniture,Furniture Kit,92.99,3,20,74.392,credit card,TRUE
+644,Pets,Cat,Cat Mechanism,142,3,40,85.2,cash,
+645,Activity,Biking,Biking Gadget,79.95,4,30,55.965,cash,FALSE
+646,Beauty,Makeup,Makeup Attachment,35.95,1,50,17.975,credit card,TRUE
+647,Activity,Camping,Camping Attachment,135.99,2,20,108.792,debit card,
+648,Electronics,Camera,Camera Whatchamacallit,131,0,50,65.5,credit card,TRUE
+649,Activity,Camping,Camping Gadget,83,2,30,58.1,credit card,FALSE
+650,Electronics,Technology,Technology Kit,64.99,2,5,61.7405,UPI,
+651,Entertainment,Movie,Movie Equipment,139.99,2,50,69.995,UPI,
+652,Activity,Beach,Beach Instrument,127.99,1,10,115.191,credit card,FALSE
+653,Clothing,Kids,Kids Device,94.99,2,30,66.493,debit card,TRUE
+654,Home,Cleaning,Cleaning Gizmo,86.99,1,50,43.495,credit card,TRUE
+655,Home,Cleaning,Cleaning Implement,111,0,20,88.8,debit card,
+656,Entertainment,Game,Game Item,154,1,,154,credit card,TRUE
+657,Home,Home Improvement,Home Improvement Mechanism,131.99,3,50,65.995,debit card,FALSE
+658,Entertainment,Book,Book Machine,95.99,2,40,57.594,credit card,
+659,Beauty,Skin Care,Skin Care Gadget,110.95,2,,110.95,debit card,FALSE
+660,Automotive,Car,Car Mechanism,91.99,1,40,55.194,credit card,TRUE
+661,Automotive,Truck,Truck Mechanism,87,2,30,60.9,UPI,FALSE
+662,Entertainment,Book,Book Contraption,35,3,30,24.5,credit card,TRUE
+663,Activity,Beach,Beach Gear,196.95,3,30,137.865,cash,FALSE
+664,Home,Home Improvement,Home Improvement Tool,145.99,1,5,138.6905,cash,
+665,Home,Dining,Dining Machine,13,1,40,7.8,credit card,
+666,Entertainment,Toy,Toy Gear,15.99,2,5,15.1905,UPI,FALSE
+667,Beauty,Hair Care,Hair Care Component,46,0,50,23,UPI,FALSE
+668,Home,Storage,Storage Implement,37,2,10,33.3,UPI,
+669,Entertainment,Toy,Toy Implement,129.99,0,20,103.992,credit card,FALSE
+670,Entertainment,Toy,Toy Apparatus,155.99,4,50,77.995,cash,TRUE
+671,Home,Storage,Storage Rig,74,2,,74,credit card,FALSE
+672,Activity,Outdoors,Outdoors Apparatus,22.95,3,,22.95,UPI,TRUE
+673,Health,First Aid,First Aid Accessory,15,2,40,9,debit card,FALSE
+674,Clothing,Kids,Kids Contraption,163.99,3,50,81.995,debit card,FALSE
+675,Entertainment,Party,Party Supplies,172.99,0,10,155.691,UPI,TRUE
+676,Clothing,Kids,Kids Rig,81.95,1,,81.95,debit card,FALSE
+677,Activity,Biking,Biking Gear,95.99,1,10,86.391,credit card,TRUE
+678,Electronics,Phone,Phone Attachment,42,1,,42,UPI,TRUE
+679,Activity,Swimming,Swimming Mechanism,148,3,5,140.6,credit card,FALSE
+680,Clothing,Womens,Womens Mechanism,73.95,2,5,70.2525,UPI,FALSE
+681,Electronics,Technology,Technology Implement,174.95,2,50,87.475,credit card,TRUE
+682,Home,Gardening,Gardening Equipment,57.99,1,10,52.191,UPI,FALSE
+683,Beauty,Hair Care,Hair Care Item,126.99,1,20,101.592,cash,TRUE
+684,Automotive,Car,Car Item,47.95,2,5,45.5525,UPI,
+685,Automotive,Tire,Tire Attachment,166.99,4,5,158.6405,UPI,FALSE
+686,Clothing,Baby,Baby Contraption,135.99,4,10,122.391,UPI,FALSE
+687,Automotive,Tire,Tire Device,121.99,2,5,115.8905,credit card,TRUE
+688,Activity,Swimming,Swimming Machine,77.95,3,5,74.0525,cash,TRUE
+689,Entertainment,Toy,Toy Apparatus,105.95,3,50,52.975,UPI,
+690,Home,Gardening,Gardening Tool,72.95,0,,72.95,UPI,FALSE
+691,Home,Kitchen,Kitchen Whatchamacallit,195,1,,195,credit card,TRUE
+692,Activity,Fitness,Fitness Kit,85,2,10,76.5,debit card,TRUE
+693,Entertainment,Movie,Movie Item,74.95,4,40,44.97,UPI,TRUE
+694,Activity,Beach,Beach Component,143.95,1,30,100.765,debit card,FALSE
+695,Clothing,Kids,Kids Kit,153.95,4,50,76.975,debit card,FALSE
+696,Activity,Camping,Camping Whatchamacallit,120.99,3,5,114.9405,UPI,
+697,Clothing,Baby,Baby Instrument,10,2,40,6,cash,TRUE
+698,Activity,Camping,Camping Device,151,2,40,90.6,debit card,FALSE
+699,Beauty,Hair Care,Hair Care Kit,123,1,5,116.85,debit card,
+700,Entertainment,Book,Book Rig,16.99,0,5,16.1405,debit card,
+701,Electronics,Camera,Camera Gadget,54.99,3,40,32.994,UPI,
+702,Health,Nutrition,Nutrition Whatchamacallit,100.99,1,40,100,cash,TRUE
+703,Home,Home Improvement,Home Improvement Apparatus,188.95,3,40,113.37,debit card,
+704,Electronics,Camera,Camera Gadget,177.99,2,5,169.0905,credit card,FALSE
+705,Entertainment,Movie,Movie Item,186.99,3,,186.99,UPI,TRUE
+706,Automotive,Car,Car Gear,67,1,20,53.6,credit card,TRUE
+707,Clothing,Womens,Womens Whatchamacallit,114.95,1,30,80.465,cash,
+708,Beauty,Hair Care,Hair Care Thingamajig,199.95,2,,199.95,UPI,TRUE
+709,Activity,Swimming,Swimming Instrument,45.99,2,5,43.6905,cash,TRUE
+710,Home,Dining,Dining Implement,89.95,3,40,53.97,UPI,FALSE
+711,Pets,Dog,Dog Gizmo,38,0,10,34.2,credit card,FALSE
+712,Automotive,Truck,Truck Gizmo,190,3,20,152,cash,TRUE
+713,Clothing,Jewelry,Jewelry Equipment,39.99,4,50,19.995,UPI,TRUE
+714,Activity,Biking,Biking Widget,105,1,5,99.75,UPI,FALSE
+715,Health,Vitamin,Vitamin Gear,83.99,4,5,79.7905,UPI,FALSE
+716,Clothing,Womens,Womens Implement,151.99,3,10,136.791,UPI,FALSE
+717,Clothing,Kids,Kids Apparatus,195.95,2,30,137.165,cash,FALSE
+718,Activity,Camping,Camping Kit,153,1,20,122.4,UPI,
+719,Health,First Aid,First Aid Whatchamacallit,18,0,40,10.8,debit card,TRUE
+720,Home,Kitchen,Kitchen Widget,185.95,1,10,167.355,debit card,FALSE
+721,Home,Storage,Storage Tool,19,0,50,9.5,UPI,
+722,Pets,Dog,Dog Component,72,2,10,64.8,cash,FALSE
+723,Clothing,Baby,Baby Kit,92.95,2,40,60,credit card,
+724,Activity,Biking,Biking Equipment,34.99,1,30,24.493,UPI,
+725,Entertainment,Book,Book Component,44,1,10,39.6,credit card,TRUE
+726,Beauty,Hair Care,Hair Care Whatchamacallit,85.95,0,50,42.975,cash,TRUE
+727,Clothing,Kids,Kids Rig,198,3,5,188.1,debit card,FALSE
+728,Beauty,Personal,Personal Widget,88,1,30,61.6,debit card,FALSE
+729,Beauty,Makeup,Makeup Component,146,3,5,138.7,cash,
+730,Electronics,Computer,Computer Equipment,94.99,1,50,47.495,UPI,
+731,Activity,Outdoors,Outdoors Paraphernalia,155,0,,155,cash,FALSE
+732,Health,First Aid,First Aid Gadget,110.99,1,,110.99,cash,TRUE
+733,Electronics,Phone,Phone Mechanism,91,3,50,45.5,debit card,TRUE
+734,Home,Storage,Storage Tool,180,0,5,171,credit card,
+735,Clothing,Baby,Baby Supplies,95.99,1,10,86.391,UPI,
+736,Entertainment,Music,Music Gizmo,79,1,20,63.2,credit card,FALSE
+737,Activity,Biking,Biking Supplies,52,3,5,49.4,cash,FALSE
+738,Home,Cleaning,Cleaning Whatchamacallit,60.95,1,5,57.9025,UPI,FALSE
+739,Beauty,Skin Care,Skin Care Widget,167.99,1,,167.99,cash,TRUE
+740,Activity,Fitness,Fitness Kit,151,4,20,120.8,UPI,FALSE
+741,Beauty,Skin Care,Skin Care Machine,100.99,2,50,50.495,cash,TRUE
+742,Automotive,Truck,Truck Thingamajig,114.95,2,10,103.455,UPI,FALSE
+743,Health,Vitamin,Vitamin Accessory,149.99,1,50,74.995,UPI,
+744,Entertainment,Party,Party Attachment,189.99,4,50,94.995,UPI,
+745,Health,Vitamin,Vitamin Component,129.95,3,,129.95,UPI,FALSE
+746,Activity,Beach,Beach Gadget,178,1,5,169.1,cash,FALSE
+747,Home,Cooking,Cooking Tool,18.99,2,5,20,UPI,TRUE
+748,Home,Bedding,Bedding Equipment,194,2,30,135.8,debit card,
+749,Home,Dining,Dining Gizmo,173,1,5,164.35,cash,FALSE
+750,Pets,Cat,Cat Item,167,2,40,100.2,debit card,
