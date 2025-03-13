@@ -101,6 +101,7 @@ transactions = transactions.drop_duplicates()
 # treating missing discount values with mean discount value (if skewness is less) or replace with 0 if skewness is large
 transactions_stats = calculate_statistics_txns(transactions,'discount')
 print(f"The mean discount is {transactions_stats}")
+
 transactions['discount'] = transactions['discount'].apply(lambda x : treat_missing_discount(x,transactions_stats))
 
 # calculating the accurate price and updating the records
