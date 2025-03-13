@@ -8,7 +8,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 7,Automotive,Truck,Truck Device,110.95,107
 8,Health,Nutrition,Nutrition Item,62.95,163
 9,Automotive,Car,Car Attachment,103.95,119
-10,Entertainment,Game,Game Gizmo,176.99,96
+10,Entertainment,Game,Game G      izmo,176.99,96
 11,Activity,Sports,Sports Paraphernalia,39,35
 12,Pets,Aquarium,Aquarium Device,33.99,220
 13,Health,Nutrition,Nutrition Machine,181,47
@@ -16,7 +16,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 15,Beauty,Hair Care,Hair Care Gadget,120.95,21
 16,Clothing,Baby,Baby Component,33,41
 17,Health,First Aid,First Aid Contraption,186.99,106
-18,Beauty,Makeup,Makeup Gear,70,1
+7,Automotive,Truck,Truck Device,110.95,107
 19,Clothing,Mens,Mens Machine,137.95,97
 20,Entertainment,Movie,Movie Attachment,121,28
 21,Electronics,Technology,Technology Mechanism,106.99,11
@@ -50,7 +50,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 49,Beauty,Personal,Personal Accessory,117.95,0
 50,Entertainment,Party,Party Paraphernalia,40,54
 51,Activity,Biking,Biking Mechanism,12.95,161
-52,Beauty,Skin Care,Skin Care Gizmo,48.95,105
+7,Automotive,Truck,Truck Device,110.95,107
 53,Activity,Sports,Sports Gear,167.95,36
 54,Health,First Aid,First Aid Equipment,187.99,118
 55,Activity,Biking,Biking Instrument,192,5
@@ -101,7 +101,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 100,Electronics,Phone,Phone Implement,134,234
 101,Activity,Fitness,Fitness Instrument,179.99,124
 102,Pets,Cat,Cat Implement,15,80
-103,Activity,Beach,Beach Doodad,175.95,117
+7,Automotive,Truck,Truck Device,110.95,107
 104,Beauty,Makeup,Makeup Whatchamacallit,92,141
 105,Automotive,Engine,Engine Tool,196.99,200
 106,Beauty,Skin Care,Skin Care Gadget,134.99,114
@@ -162,7 +162,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 161,Entertainment,Toy,Toy Instrument,17.95,178
 162,Entertainment,Game,Game Attachment,17.95,66
 163,Entertainment,Music,Music Doodad,32,27
-164,Home,Gardening,Gardening Kit,104.95,241
+7,Automotive,Truck,Truck Device,110.95,107
 165,Entertainment,Toy,Toy Gizmo,140.95,107
 166,Home,Storage,Storage Apparatus,14.95,124
 167,Home,Storage,Storage Component,199.99,9
@@ -197,7 +197,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 196,Beauty,Skin Care,Skin Care Whatchamacallit,70,233
 197,Pets,Cat,Cat Gadget,77.95,91
 198,Activity,Camping,Camping Paraphernalia,134.99,150
-199,Home,Bedding,Bedding Item,22.95,83
+7,Automotive,Truck,Truck Device,110.95,107
 200,Activity,Sports,Sports Implement,64,108
 201,Home,Cleaning,Cleaning Whatchamacallit,112.99,149
 202,Electronics,Technology,Technology Doodad,24.95,35
@@ -353,7 +353,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 352,Electronics,Technology,Technology Attachment,159,124
 353,Activity,Swimming,Swimming Machine,131.99,62
 354,Electronics,Technology,Technology Whatchamacallit,181,219
-355,Home,Gardening,Gardening Whatchamacallit,106,124
+277,Clothing,Womens,Womens Whatchamacallit,114.95,207
 356,Beauty,Makeup,Makeup Widget,22.95,157
 357,Entertainment,Game,Game Attachment,52.95,186
 358,Automotive,Engine,Engine Gadget,180.99,22
@@ -413,7 +413,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 412,Health,First Aid,First Aid Instrument,35,249
 413,Automotive,Engine,Engine Tool,183,115
 414,Automotive,Car,Car Accessory,20,28
-415,Electronics,Technology,Technology Gadget,41.99,170
+277,Clothing,Womens,Womens Whatchamacallit,114.95,207
 416,Activity,Outdoors,Outdoors Instrument,78.99,51
 417,Automotive,Engine,Engine Apparatus,68.95,138
 418,Electronics,Computer,Computer Device,192,33
@@ -488,14 +488,14 @@ product_id,category,subcategory,product_name,price,inventory_level
 487,Automotive,Truck,Truck Rig,51.95,110
 488,Entertainment,Movie,Movie Kit,94.95,160
 489,Activity,Sports,Sports Contraption,57,103
-490,Entertainment,Game,Game Tool,154.99,72
+277,Clothing,Womens,Womens Whatchamacallit,114.95,207
 491,Electronics,Camera,Camera Apparatus,184.99,169
 492,Home,Dining,Dining Widget,199.99,106
 493,Beauty,Hair Care,Hair Care Gear,41,251
 494,Health,First Aid,First Aid Doodad,189,160
 495,Entertainment,Book,Book Implement,190,84
-496,Automotive,Truck,Truck Kit,18.99,46
+277,Clothing,Womens,Womens Whatchamacallit,114.95,207
 497,Clothing,Womens,Womens Rig,17.99,18
 498,Pets,Aquarium,Aquarium Attachment,161.99,176
-499,Health,First Aid,First Aid Doodad,189,160
+500,Clothing,Baby,Room Decor,15.99,200
 500,Clothing,Baby,Room Decor,15.99,200

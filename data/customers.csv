@@ -1,12 +1,12 @@
 customer_id,first_name,last_name,age,gender,city,state,country,membership_duration,customer_segment
 1,Artur,Lochran,87,M,Houston,,United States,2,regular
-2,Winonah,Hansed,47,F,Spring,Texas,United States,7,premium
+2,Winonah,Hansed,47,F,Spring,Texas,United States,,premium
 3,Adore,,-44,F,Salt Lake City,Utah,United States,5,regular
 4,Lazar,,24,M,Cincinnati,,United States,10,premium
-5,Karney,Nanetti,43,M,Woburn,,United States,10,premium
-6,Rasla,Franzen,87,F,New York City,New York,United States,9,premium
-7,Thayne,Fulbrook,91,M,Trenton,New Jersey,United States,8,premium
-8,Norris,,26,M,Chattanooga,Tennessee,United States,6,premium
+5,Karney,Nanetti,43,M,Woburn,,US,10,premium
+6,Rasla,Franzen,87,F,New York City,New York,US,9,premium
+7,Thayne,Fulbrook,91,M,Trenton,New Jersey,US,8,premium
+8,Norris,,26,M,Chattanooga,Tennessee,US,6,premium
 9,Chiarra,Strong,48,F,San Bernardino,California,United States,1,new
 10,Merle,Walczynski,28,F,Phoenix,Arizona,United States,2,regular
 11,Pippy,Threlfall,-39,F,Arlington,Texas,United States,1,new
@@ -14,14 +14,14 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 13,Desiree,Rubertis,72,F,Laurel,,United States,1,new
 14,Ulises,Tremonte,48,M,Melbourne,Florida,United States,5,regular
 15,Jeramey,Yanshinov,18,M,Santa Monica,California,United States,2,regular
-16,Sharity,Rodrigues,66,F,New York City,New York,United States,,regular
+16,Sharity,Rodrigues,66,F,NY,New York,United States,,regular
 17,Myron,Salvati,48,M,Milwaukee,Wisconsin,United States,2,regular
 18,Sibyl,Dacombe,50,M,San Bernardino,California,United States,6,premium
 19,Harlen,Spinetti,78,M,Los Angeles,,United States,10,premium
-20,Eamon,Lumby,49,M,Dallas,Texas,United States,5,regular
-21,Adan,Laycock,37,M,Huntington,,United States,,regular
-22,Mike,Collister,8,M,Young America,Minnesota,United States,7,premium
-23,Susanne,Prenty,62,F,Washington,,United States,7,premium
+20,Eamon,Lumby,49,M,Dallas,Texas,US,5,regular
+21,Adan,Laycock,37,M,Huntington,,US,,regular
+22,Mike,Collister,8,M,Young America,Minnesota,US,7,premium
+23,Susanne,Prenty,62,F,Washington,,US,7,premium
 24,Jacques,Johanssen,63,M,Charleston,,United States,1,new
 25,Tarrah,Chesswas,43,F,Waco,Texas,United States,7,premium
 26,Anson,Van Der Hoog,76,M,Lakeland,Florida,United States,8,premium
@@ -88,11 +88,11 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 87,Herold,De Antoni,99,M,Green Bay,Wisconsin,United States,8,premium
 88,Nelli,D'Ambrosio,35,F,Santa Clara,California,United States,6,premium
 89,Skipp,Fradson,11,M,Milwaukee,Wisconsin,United States,,regular
-90,Brewster,,75,M,Anaheim,California,United States,5,regular
-91,Mick,Lillecrop,53,M,Inglewood,California,United States,5,regular
-92,Jose,Micheu,88,M,Colorado Springs,,United States,1,new
-93,Ninnetta,Arnao,30,F,Boston,Massachusetts,United States,,regular
-94,Karil,Isted,2,F,San Angelo,Texas,United States,,regular
+90,Brewster,,75,M,Anaheim,California,US,5,regular
+91,Mick,Lillecrop,53,M,Inglewood,California,US,5,regular
+92,Jose,Micheu,88,M,Colorado Springs,,US,1,new
+93,Ninnetta,Arnao,30,F,Boston,Massachusetts,US,,regular
+94,Karil,Isted,2,F,San Angelo,Texas,US,,regular
 95,Angelique,Leithgoe,29,F,Naples,,United States,7,premium
 96,Lammond,Barendtsen,39,M,Corpus Christi,Texas,United States,4,regular
 97,Welch,,86,M,Houston,Texas,United States,6,premium
@@ -152,11 +152,11 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 151,Josias,Izen,75,M,Prescott,,United States,3,regular
 152,Domeniga,Degli Antoni,60,F,Paterson,,United States,9,premium
 153,Marina,Trim,39,F,Boston,Massachusetts,United States,10,premium
-154,Meyer,,59,M,Santa Monica,California,United States,9,premium
-155,Lazarus,Cotman,80,M,Lincoln,,United States,3,regular
-156,Humberto,Dennistoun,98,M,Austin,Texas,United States,8,premium
-157,Allan,Livesley,46,M,Sioux Falls,South Dakota,United States,2,regular
-158,Bunnie,Berndtssen,55,F,Sacramento,California,United States,,regular
+154,Meyer,,59,M,Santa Monica,California,US,9,premium
+155,Lazarus,Cotman,80,M,Lincoln,,US,3,regular
+156,Humberto,Dennistoun,98,M,Austin,Texas,US,8,premium
+157,Allan,Livesley,46,M,Sioux Falls,South Dakota,US,2,regular
+158,Bunnie,Berndtssen,55,F,Sacramento,California,US,,regular
 159,Robinson,,65,M,El Paso,Texas,United States,4,regular
 160,Jeffy,Bossom,25,M,Knoxville,,United States,10,premium
 161,Juliann,Pevie,64,F,Bonita Springs,Florida,United States,5,regular
@@ -165,7 +165,7 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 164,Clem,Ploughwright,18,F,Syracuse,New York,United States,10,premium
 165,Brunhilde,Uden,39,F,Tulsa,Oklahoma,United States,9,premium
 166,Hadrian,Ciciura,39,M,Washington,,United States,10,premium
-167,Bev,Danelet,22,F,New York City,New York,United States,5,regular
+167,Bev,Danelet,22,F,NY,New York,United States,5,regular
 168,Davie,Roubottom,17,M,Bozeman,,United States,3,regular
 169,Jeanette,Fabler,70,F,Long Beach,California,United States,9,premium
 170,Denni,Willgrass,88,F,Bowie,,United States,4,regular
@@ -192,12 +192,12 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 191,Natassia,Mulqueeny,76,F,Rockford,Illinois,United States,,regular
 192,Kipp,Taylor,76,M,Oklahoma City,Oklahoma,United States,5,regular
 193,Janos,Pickaver,37,M,Amarillo,Texas,United States,3,regular
-194,Briano,Cinelli,74,M,North Port,Florida,United States,3,regular
-195,Isidore,Horribine,96,M,Topeka,Kansas,United States,5,regular
-196,Fayth,Godehard.sf,8,F,Jacksonville,,United States,6,premium
-197,Rhoda,Gounel,95,F,Indianapolis,,United States,9,premium
-198,Marci,Steptow,77,F,Sacramento,,United States,6,premium
-199,Job,Blasli,60,M,Colorado Springs,Colorado,United States,7,premium
+194,Briano,Cinelli,74,M,North Port,Florida,US,3,regular
+195,Isidore,Horribine,96,M,Topeka,Kansas,US,5,regular
+196,Fayth,Godehard.sf,8,F,Jacksonville,,US,6,premium
+197,Rhoda,Gounel,95,F,Indianapolis,,US,9,premium
+198,Marci,Steptow,77,F,Sacramento,,US,6,premium
+199,Job,Blasli,60,M,Colorado Springs,Colorado,US,7,premium
 200,Janna,Whitford,60,F,Metairie,,United States,3,regular
 201,Sanders,McLleese,82,M,Washington,District of Columbia,United States,9,premium
 202,Joey,Gherardesci,64,M,Hattiesburg,,United States,3,regular
@@ -258,14 +258,14 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 257,Urbain,Sommers,77,M,Round Rock,Texas,United States,10,premium
 258,Toddie,Ambrogioni,65,M,Albany,,United States,10,premium
 259,Bianca,Benbough,64,F,Aiken,,United States,1,new
-260,Aron,Grocott,63,M,New York City,New York,United States,,regular
+260,Aron,Grocott,63,M,NY,New York,United States,,regular
 261,Demetria,Eynon,47,F,Worcester,,United States,7,premium
 262,Vern,Mathelon,42,M,Wilmington,Delaware,United States,1,new
 263,Carol-jean,Limbourne,48,F,Anchorage,Alaska,United States,2,regular
 264,Torey,Talman,56,M,Bethesda,Maryland,United States,3,regular
 265,Adrea,Maciak,52,F,Denton,Texas,United States,3,regular
 266,Spenser,Wannell,72,M,Peoria,Illinois,United States,7,premium
-267,Ferguson,Szwandt,67,M,New York City,,United States,,regular
+267,Ferguson,Szwandt,67,M,NY,,United States,,regular
 268,Field,Anstiss,74,M,Lafayette,Louisiana,United States,5,regular
 269,Hynda,Ascrofte,81,F,Lake Charles,Louisiana,United States,7,premium
 270,Krystal,Focke,97,F,Akron,,United States,6,premium
@@ -277,12 +277,12 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 276,Lesli,Williamson,92,F,Saint Louis,,United States,2,regular
 277,Rhodie,Goaley,48,F,Knoxville,Tennessee,United States,10,premium
 278,Alyosha,Bushel,67,M,Rochester,New York,United States,,regular
-279,Vernice,Ramshaw,94,F,Washington,District of Columbia,United States,7,premium
-280,Shea,Bergeau,8,F,Saint Petersburg,Florida,United States,9,premium
-281,Holly,Ensley,6,M,Lehigh Acres,Florida,United States,9,premium
-282,Alene,,18,F,Roanoke,,United States,7,premium
-283,Jory,Baine,98,M,Nashville,,United States,6,premium
-284,Olly,Milbourne,71,F,Nashville,Tennessee,United States,8,premium
+279,Vernice,Ramshaw,94,F,Washington,District of Columbia,US,7,premium
+280,Shea,Bergeau,8,F,Saint Petersburg,Florida,US,9,premium
+281,Holly,Ensley,6,M,Lehigh Acres,Florida,US,9,premium
+282,Alene,,18,F,Roanoke,,US,7,premium
+283,Jory,Baine,98,M,Nashville,,US,6,premium
+284,Olly,Milbourne,71,F,Nashville,Tennessee,US,8,premium
 285,Marquita,Biasini,5,F,Irvine,California,United States,2,regular
 286,Ree,Trinkwon,65,F,Honolulu,Hawaii,United States,3,regular
 287,Marvin,aManger,13,M,Saint Paul,,United States,3,regular
@@ -346,11 +346,11 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 345,Mal,,69,M,Washington,District of Columbia,United States,10,premium
 346,Barry,Greveson,5,F,Detroit,,United States,2,regular
 347,Eldredge,Demelt,30,M,Denver,Colorado,United States,10,premium
-348,Stevy,Hentzeler,22,M,Atlanta,Georgia,United States,2,regular
-349,Gussie,Simeone,98,F,Durham,,United States,3,regular
-350,Bette-ann,Dewire,39,F,Provo,Utah,United States,7,premium
-351,Elmira,Lesser,15,F,Miami,Florida,United States,5,regular
-352,Samuele,Emig,48,M,Springfield,,United States,8,premium
+348,Stevy,Hentzeler,22,M,Atlanta,Georgia,US,2,regular
+349,Gussie,Simeone,98,F,Durham,,US,3,regular
+350,Bette-ann,Dewire,39,F,Provo,Utah,US,7,premium
+351,Elmira,Lesser,15,F,Miami,Florida,US,5,regular
+352,Samuele,Emig,48,M,Springfield,,US,8,premium
 353,Andrus,Hurley,38,M,Atlanta,Georgia,United States,6,premium
 354,Bearnard,Carnie,45,M,Toledo,,United States,6,premium
 355,Pete,Aikett,43,M,Kissimmee,Florida,United States,,regular
@@ -441,11 +441,11 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 440,Bonita,Strongitharm,29,F,Kansas City,Missouri,United States,10,premium
 441,Meris,Sorrie,66,F,Vancouver,Washington,United States,5,regular
 442,Salli,Adrien,36,F,Huntington,West Virginia,United States,5,regular
-443,Dorrie,Clutton,79,F,Fresno,California,United States,4,regular
-444,Marten,Horlock,62,M,Miami,,United States,2,regular
-445,Immanuel,Troy,16,M,Memphis,Tennessee,United States,5,regular
-446,Nesta,,6,F,Santa Cruz,California,United States,2,regular
-447,Davine,Petrolli,30,F,Philadelphia,Pennsylvania,United States,,regular
+443,Dorrie,Clutton,79,F,Fresno,California,US,4,regular
+444,Marten,Horlock,62,M,Miami,,US,2,regular
+445,Immanuel,Troy,16,M,Memphis,Tennessee,US,5,regular
+446,Nesta,,6,F,Santa Cruz,California,US,2,regular
+447,Davine,Petrolli,30,F,Philadelphia,Pennsylvania,US,,regular
 448,Adey,MacKomb,50,F,Orange,California,United States,7,premium
 449,Jarad,,49,M,Mobile,,United States,3,regular
 450,Hulda,Kersting,79,F,Champaign,Illinois,United States,8,premium
@@ -498,4 +498,4 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 497,Tana,Szubert,25,F,Moreno Valley,,United States,,regular
 498,Tam,Tiltman,78,M,Indianapolis,,United States,5,regular
 499,Ozzie,,10,M,Chattanooga,Tennessee,United States,1,new
-500,Kalle,Older,-45,M,Glendale,California,United States,,regular
+500,Kalle,Older,-45,M,Glendale,California,US,,regular
