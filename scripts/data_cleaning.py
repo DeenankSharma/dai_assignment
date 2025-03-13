@@ -6,7 +6,7 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from functions.data_cleaning_functions_customers import calculate_null_percent ,calc_duplicates, categorize_customer, correct_age, calculate_statistics, treat_outlying_ages
-
+from functions.data_cleaning_functions_transactions import calculate_statistics_txns, treat_missing_discount
 
 
 # reading data from the csv files and converting it to data frames
@@ -34,9 +34,10 @@ transactions_original = transactions.copy()
 #  - Some of the records are duplicated 
 
 # Issues with the Transactions Table
-#  - quantity column has invalid data i.e. 0
 #  - price_paid logic is wrong, therefore, the data is inaccurate
-#  - coupon applied column has empty values
+#  - additional discount of 10% is to be applied for coupon applied
+#  - base discount has empty values 
+#  - data has duplicate records
 
 ###############################################
 # Cleaning Customers Data #
@@ -89,7 +90,10 @@ products = products.drop_duplicates()
 
 
 ###############################################
-# Cleaning Products Data #
+# Cleaning Transactions Data #
 ###############################################
 
+# treating missing discount values with mean discount value (if skewness is less) or replace with 0 if skewness is large
+transactions_stats = calculate_statistics_txns(transactions,'discount')
 
+transactions['discount'] = transactions['discount'].apply(lambda x : treat_missing_discount(x,transactions_stats))

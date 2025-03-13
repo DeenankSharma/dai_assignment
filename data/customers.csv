@@ -1,20 +1,20 @@
 customer_id,first_name,last_name,age,gender,city,state,country,membership_duration,customer_segment
-1,Artur,Lochran,87,M,Houston,,USA,2,regular
-2,Winonah,Hansed,47,F,Spring,Texas,USA,7,premium
-3,Adore,,44,F,Salt Lake City,Utah,USA,5,regular
-4,Lazar,,24,M,Cincinnati,,USA,10,premium
-5,Karney,Nanetti,43,M,Woburn,,USA,10,premium
-6,Rasla,Franzen,87,F,NY,New York,United States,9,premium
+1,Artur,Lochran,87,M,Houston,,United States,2,regular
+2,Winonah,Hansed,47,F,Spring,Texas,United States,7,premium
+3,Adore,,-44,F,Salt Lake City,Utah,United States,5,regular
+4,Lazar,,24,M,Cincinnati,,United States,10,premium
+5,Karney,Nanetti,43,M,Woburn,,United States,10,premium
+6,Rasla,Franzen,87,F,New York City,New York,United States,9,premium
 7,Thayne,Fulbrook,91,M,Trenton,New Jersey,United States,8,premium
 8,Norris,,26,M,Chattanooga,Tennessee,United States,6,premium
 9,Chiarra,Strong,48,F,San Bernardino,California,United States,1,new
 10,Merle,Walczynski,28,F,Phoenix,Arizona,United States,2,regular
-11,Pippy,Threlfall,39,F,Arlington,Texas,United States,1,new
+11,Pippy,Threlfall,-39,F,Arlington,Texas,United States,1,new
 12,Biddie,Asquith,71,F,Springfield,Illinois,United States,5,regular
 13,Desiree,Rubertis,72,F,Laurel,,United States,1,new
 14,Ulises,Tremonte,48,M,Melbourne,Florida,United States,5,regular
 15,Jeramey,Yanshinov,18,M,Santa Monica,California,United States,2,regular
-16,Sharity,Rodrigues,66,F,NY,New York,United States,,regular
+16,Sharity,Rodrigues,66,F,New York City,New York,United States,,regular
 17,Myron,Salvati,48,M,Milwaukee,Wisconsin,United States,2,regular
 18,Sibyl,Dacombe,50,M,San Bernardino,California,United States,6,premium
 19,Harlen,Spinetti,78,M,Los Angeles,,United States,10,premium
@@ -116,7 +116,7 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 115,Shelley,Brake,10,F,Lexington,Kentucky,United States,8,premium
 116,Dore,Ferrero,22,M,Austin,Texas,United States,7,premium
 117,Johnathan,,59,M,Houston,Texas,United States,,regular
-118,Jennine,Henrichs,52,F,Chattanooga,,United States,3,regular
+118,Jennine,Henrichs,-52,F,Chattanooga,,United States,3,regular
 119,Roanna,,38,F,Columbus,Georgia,United States,8,premium
 120,Rhys,Willcott,99,M,Washington,District of Columbia,United States,7,premium
 121,Dani,,83,M,Irvine,,United States,2,regular
@@ -263,13 +263,13 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 262,Vern,Mathelon,42,M,Wilmington,Delaware,United States,1,new
 263,Carol-jean,Limbourne,48,F,Anchorage,Alaska,United States,2,regular
 264,Torey,Talman,56,M,Bethesda,Maryland,United States,3,regular
-265,Adrea,Maciak,52,F,Denton,Texas,USA,3,regular
-266,Spenser,Wannell,72,M,Peoria,Illinois,USA,7,premium
-267,Ferguson,Szwandt,67,M,New York City,,USA,,regular
-268,Field,Anstiss,74,M,Lafayette,Louisiana,USA,5,regular
-269,Hynda,Ascrofte,81,F,Lake Charles,Louisiana,USA,7,premium
-270,Krystal,Focke,97,F,Akron,,USA,6,premium
-271,Andrus,Peacocke,21,M,Decatur,Illinois,USA,3,regular
+265,Adrea,Maciak,52,F,Denton,Texas,United States,3,regular
+266,Spenser,Wannell,72,M,Peoria,Illinois,United States,7,premium
+267,Ferguson,Szwandt,67,M,New York City,,United States,,regular
+268,Field,Anstiss,74,M,Lafayette,Louisiana,United States,5,regular
+269,Hynda,Ascrofte,81,F,Lake Charles,Louisiana,United States,7,premium
+270,Krystal,Focke,97,F,Akron,,United States,6,premium
+271,Andrus,Peacocke,21,M,Decatur,Illinois,United States,3,regular
 272,Rebekkah,Shellcross,50,F,Mobile,,United States,4,regular
 273,Hector,Alforde,59,M,North Port,Florida,United States,,regular
 274,Bartie,Askie,48,M,San Diego,California,United States,9,premium
@@ -301,12 +301,12 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 300,Oona,Rope,36,F,Tulsa,,United States,5,regular
 301,Andree,Paskin,21,F,Columbus,,United States,5,regular
 302,Luca,Starte,21,M,Irvine,California,United States,9,premium
-303,Ody,Sissel,95,M,Salt Lake City,,USA,8,premium
-304,Orazio,Siseland,83,M,New York City,New York,USA,2,regular
-305,Toddy,Scartifield,100,M,Sacramento,California,USA,5,regular
-306,Daniella,Fawdrey,26,F,Littleton,Colorado,USA,10,premium
-307,Letisha,Vials,85,F,Fort Collins,Colorado,USA,1,new
-308,Carlie,,12,F,Sacramento,California,USA,6,premium
+303,Ody,Sissel,95,M,Salt Lake City,,United States,8,premium
+304,Orazio,Siseland,83,M,New York City,New York,United States,2,regular
+305,Toddy,Scartifield,-100,M,Sacramento,California,United States,5,regular
+306,Daniella,Fawdrey,26,F,Littleton,Colorado,United States,10,premium
+307,Letisha,Vials,85,F,Fort Collins,Colorado,United States,1,new
+308,Carlie,,12,F,Sacramento,California,United States,6,premium
 309,Maureen,Ashington,33,F,Warren,Ohio,United States,1,new
 310,Haily,Skillett,9,F,Honolulu,,United States,10,premium
 311,Konstantine,Quinnet,72,M,Charleston,West Virginia,United States,2,regular
@@ -333,15 +333,15 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 332,Frankie,Sleeford,26,M,Sacramento,,United States,9,premium
 333,Melinda,Nott,84,F,Amarillo,Texas,United States,7,premium
 334,Eleen,Ofer,71,F,Duluth,,United States,7,premium
-335,Belvia,Relph,32,F,Sacramento,California,USA,10,premium
-336,Christian,Kintish,61,M,Washington,,USA,10,premium
-337,Jerrome,Bysouth,83,M,Hagerstown,Maryland,USA,8,premium
-338,Shelley,Ryde,31,M,Great Neck,New York,USA,10,premium
-339,Sampson,Realph,63,M,Carlsbad,California,USA,7,premium
-340,Anestassia,,97,F,Washington,District of Columbia,USA,3,regular
-341,Saunders,Fone,17,M,Boca Raton,,USA,2,regular
-342,Martainn,Gawkroge,26,M,Miami,Florida,USA,1,new
-343,Steve,,49,M,Houston,Texas,USA,5,regular
+335,Belvia,Relph,32,F,Sacramento,California,United States,10,premium
+336,Christian,Kintish,61,M,Washington,,United States,10,premium
+337,Jerrome,Bysouth,83,M,Hagerstown,Maryland,United States,8,premium
+338,Shelley,Ryde,31,M,Great Neck,New York,United States,10,premium
+339,Sampson,Realph,63,M,Carlsbad,California,United States,7,premium
+340,Anestassia,,97,F,Washington,District of Columbia,United States,3,regular
+341,Saunders,Fone,17,M,Boca Raton,,United States,2,regular
+342,Martainn,Gawkroge,26,M,Miami,Florida,United States,1,new
+343,Steve,,49,M,Houston,Texas,United States,5,regular
 344,Helyn,Clavering,26,F,Kansas City,Missouri,United States,4,regular
 345,Mal,,69,M,Washington,District of Columbia,United States,10,premium
 346,Barry,Greveson,5,F,Detroit,,United States,2,regular
@@ -369,8 +369,8 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 368,Veronike,Bickford,53,F,Largo,Florida,United States,3,regular
 369,Patric,,48,M,San Francisco,California,United States,10,premium
 370,Valli,Matteoli,54,F,Vancouver,Washington,United States,4,regular
-371,Monique,Grouer,23,F,Long Beach,California,USA,,regular
-372,Rock,Claricoats,91,M,Birmingham,Alabama,USA,9,premium
+371,Monique,Grouer,23,F,Long Beach,California,United States,,regular
+372,Rock,Claricoats,91,M,Birmingham,Alabama,United States,9,premium
 373,Ailyn,McNirlin,66,F,Atlanta,Georgia,United States,6,premium
 374,Gilberte,Hannaby,3,F,Fort Lauderdale,,United States,5,regular
 375,Blakeley,Harder,1,F,Chicago,,United States,7,premium
@@ -459,7 +459,7 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 458,Kerwinn,Lewsy,97,M,Honolulu,,United States,8,premium
 459,Timothee,Edwin,44,M,Dallas,Texas,United States,2,regular
 460,Vick,Parke,92,M,Miami,Florida,United States,9,premium
-461,Hannah,Trewin,51,F,Jamaica,New York,United States,3,regular
+461,Hannah,Trewin,-51,F,Jamaica,New York,United States,3,regular
 462,Willi,,15,F,Lexington,Kentucky,United States,,regular
 463,Derwin,Caulwell,4,M,Clearwater,Florida,United States,9,premium
 464,Jaquelyn,Mulcaster,64,F,Erie,Pennsylvania,United States,6,premium
@@ -498,4 +498,4 @@ customer_id,first_name,last_name,age,gender,city,state,country,membership_durati
 497,Tana,Szubert,25,F,Moreno Valley,,United States,,regular
 498,Tam,Tiltman,78,M,Indianapolis,,United States,5,regular
 499,Ozzie,,10,M,Chattanooga,Tennessee,United States,1,new
-500,Kalle,Older,45,M,Glendale,California,United States,,regular
+500,Kalle,Older,-45,M,Glendale,California,United States,,regular
