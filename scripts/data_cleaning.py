@@ -98,8 +98,6 @@ print(transactions.head())
 # dropping duplicate records
 transactions = transactions.drop_duplicates()
 
-print(transactions.iloc[22])
-
 # treating missing discount values with mean discount value (if skewness is less) or replace with 0 if skewness is large
 transactions_stats = calculate_statistics_txns(transactions,'discount')
 print(f"The mean discount is {transactions_stats}")
