@@ -2,54 +2,155 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def print_summary_stats(df,col_name):
-  print(df[col_name].describe())
-  print(df[col_name].skew())
+def print_summary_stats(df, col_name):
+    """
+    Print summary statistics for a specified column in a dataframe.
+    
+    Parameters:
+    -----------
+    df : pandas.DataFrame
+        The dataframe containing the data to analyze.
+    col_name : str
+        The name of the column to analyze.
+        
+    Returns:
+    --------
+    None
+        Prints the descriptive statistics and skewness of the specified column.
+    """
+    print(df[col_name].describe())
+    print(df[col_name].skew())
   
-def plot_pie_chart(phrase,df,col_name):
-  print(f"\n### {phrase} Distribution:")
-  print(df[col_name].value_counts())
-  df[col_name].value_counts().plot(kind='pie',autopct='%0.1f%%')
-  plt.title(f"{phrase} Distribution")
-  plt.show()
+def plot_pie_chart(phrase, df, col_name):
+    """
+    Create and display a pie chart for a categorical column.
+    
+    Parameters:
+    -----------
+    phrase : str
+        Descriptive phrase to use in the chart title and output messages.
+    df : pandas.DataFrame
+        The dataframe containing the data to visualize.
+    col_name : str
+        The name of the categorical column to visualize.
+        
+    Returns:
+    --------
+    None
+        Prints the value counts and displays a pie chart with percentage labels.
+    """
+    print(f"\n### {phrase} Distribution:")
+    print(df[col_name].value_counts())
+    df[col_name].value_counts().plot(kind='pie', autopct='%0.1f%%')
+    plt.title(f"{phrase} Distribution")
+    plt.show()
 
-def plot_bar_chart(phrase,df,col_name):
-  print(f"\n### {phrase} Distribution:")
-  print(df[col_name].value_counts())
-  df[col_name].value_counts().plot(kind='bar')
-  plt.title(f"{phrase} Distribution")
-  plt.xlabel(phrase)
-  plt.ylabel('Count')
-  plt.xticks(rotation=90)  
-  plt.tight_layout() 
-  plt.show()
+def plot_bar_chart(phrase, df, col_name):
+    """
+    Create and display a bar chart for a categorical column.
+    
+    Parameters:
+    -----------
+    phrase : str
+        Descriptive phrase to use in the chart title and output messages.
+    df : pandas.DataFrame
+        The dataframe containing the data to visualize.
+    col_name : str
+        The name of the categorical column to visualize.
+        
+    Returns:
+    --------
+    None
+        Prints the value counts and displays a bar chart.
+    """
+    print(f"\n### {phrase} Distribution:")
+    print(df[col_name].value_counts())
+    df[col_name].value_counts().plot(kind='bar')
+    plt.title(f"{phrase} Distribution")
+    plt.xlabel(phrase)
+    plt.ylabel('Count')
+    plt.xticks(rotation=90)  
+    plt.tight_layout() 
+    plt.show()
   
-def plot_histogram(phrase,df,col_name,bins_):
-  print(f"### {phrase} Distribution:")
-  df[col_name].plot(kind='hist',bins = bins_)
-  plt.title(f'{phrase} Distribution')
-  plt.xlabel(phrase)
-  plt.ylabel('Frequency')
-  plt.tight_layout()  
-  plt.show()
+def plot_histogram(phrase, df, col_name, bins_):
+    """
+    Create and display a histogram for a numerical column.
+    
+    Parameters:
+    -----------
+    phrase : str
+        Descriptive phrase to use in the chart title and output messages.
+    df : pandas.DataFrame
+        The dataframe containing the data to visualize.
+    col_name : str
+        The name of the numerical column to visualize.
+    bins_ : int
+        Number of bins to use in the histogram.
+        
+    Returns:
+    --------
+    None
+        Displays a histogram of the specified column.
+    """
+    print(f"### {phrase} Distribution:")
+    df[col_name].plot(kind='hist', bins=bins_)
+    plt.title(f'{phrase} Distribution')
+    plt.xlabel(phrase)
+    plt.ylabel('Frequency')
+    plt.tight_layout()  
+    plt.show()
   
-  
-def plot_box_plot(phrase,df,col_name):
-  print(f"### {phrase} Distribution:")
-  df[col_name].plot(kind='box')
-  plt.title(f'{phrase} Distribution')
-  plt.xlabel(phrase) 
-  plt.tight_layout()  
-  plt.show()
+def plot_box_plot(phrase, df, col_name):
+    """
+    Create and display a box plot for a numerical column.
+    
+    Parameters:
+    -----------
+    phrase : str
+        Descriptive phrase to use in the chart title and output messages.
+    df : pandas.DataFrame
+        The dataframe containing the data to visualize.
+    col_name : str
+        The name of the numerical column to visualize.
+        
+    Returns:
+    --------
+    None
+        Displays a box plot of the specified column.
+    """
+    print(f"### {phrase} Distribution:")
+    df[col_name].plot(kind='box')
+    plt.title(f'{phrase} Distribution')
+    plt.xlabel(phrase) 
+    plt.tight_layout()  
+    plt.show()
 
-def plot_kde_plot(phrase,df,col_name):
-  print(f"### {phrase} Distribution:")
-  df[col_name].plot(kind='kde')
-  plt.title(f'{phrase} Distribution')
-  plt.xlabel(phrase) 
-  plt.ylabel('Density') 
-  plt.tight_layout()  
-  plt.show()
+def plot_kde_plot(phrase, df, col_name):
+    """
+    Create and display a kernel density estimation (KDE) plot for a numerical column.
+    
+    Parameters:
+    -----------
+    phrase : str
+        Descriptive phrase to use in the chart title and output messages.
+    df : pandas.DataFrame
+        The dataframe containing the data to visualize.
+    col_name : str
+        The name of the numerical column to visualize.
+        
+    Returns:
+    --------
+    None
+        Displays a KDE plot of the specified column.
+    """
+    print(f"### {phrase} Distribution:")
+    df[col_name].plot(kind='kde')
+    plt.title(f'{phrase} Distribution')
+    plt.xlabel(phrase) 
+    plt.ylabel('Density') 
+    plt.tight_layout()  
+    plt.show()
   
 def calc_corr_matrix(df, col1, col2):
     '''
@@ -129,3 +230,73 @@ def plot_inventory_by_category(df, top_n=5):
     
     plt.tight_layout()
     plt.show()
+    
+
+def plot_discount_effects(df, category_col='category'):
+    """
+    Create stacked bar plots to visualize how discounts affect quantity and price_paid 
+    across different categories.
+    
+    Parameters:
+    -----------
+    df : pandas.DataFrame
+        The dataframe containing the order data with discount (as percentage 0-50), 
+        quantity, and price_paid columns.
+    category_col : str, default='category'
+        The column name to use for categories (x-axis).
+    
+    Returns:
+    --------
+    None
+        Displays two stacked bar plots.
+    """
+    
+    df['discount_bracket'] = pd.cut(
+        df['discount'], 
+        bins=[-1, 5, 10, 20, 50], 
+        labels=['0-5%', '5-10%', '10-20%', '20%+']
+    )
+    
+    # Create pivot tables for both metrics
+    price_pivot = df.pivot_table(
+        index=category_col, 
+        columns='discount_bracket', 
+        values='price_paid', 
+        aggfunc='mean'
+    )
+    
+    quantity_pivot = df.pivot_table(
+        index=category_col, 
+        columns='discount_bracket', 
+        values='quantity', 
+        aggfunc='mean'
+    )
+    
+ 
+    fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(16, 6))
+    
+    # Plot 1: Price Paid by Category and Discount
+    price_pivot.plot(kind='bar', stacked=True, ax=ax1, colormap='Blues')
+    ax1.set_title(f'Average Price Paid by {category_col} and Discount Level')
+    ax1.set_xlabel(category_col)
+    ax1.set_ylabel('Average Price Paid')
+    ax1.legend(title='Discount')
+    
+    # Plot 2: Quantity by Category and Discount
+    quantity_pivot.plot(kind='bar', stacked=True, ax=ax2, colormap='Greens')
+    ax2.set_title(f'Average Quantity by {category_col} and Discount Level')
+    ax2.set_xlabel(category_col)
+    ax2.set_ylabel('Average Quantity')
+    ax2.legend(title='Discount')
+    
+
+    plt.tight_layout()
+    plt.show()
+    
+    print("\nSummary of Price Paid by Category and Discount Level:")
+    print(price_pivot)
+    
+    print("\nSummary of Quantity by Category and Discount Level:")
+    print(quantity_pivot)
+
+
