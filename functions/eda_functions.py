@@ -180,9 +180,9 @@ def create_scatter_plot(df, col1, col2):
     plt.scatter(df[col1], df[col2], alpha=0.7)
     title = f"Scatter plot of {col2} vs {col1}"
    
-    plt.set_xlabel(col1)
-    plt.set_ylabel(col2)
-    plt.set_title(title)
+    plt.xlabel(col1)
+    plt.ylabel(col2)
+    plt.title(title)
     plt.grid(True, linestyle='--', alpha=0.7)
     
     plt.tight_layout()

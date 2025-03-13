@@ -26,7 +26,7 @@ calc_corr_matrix(products,'price','inventory_level')
 # Correlation Matrices of Transactions Table
 
 print("Correlation Matrix between Quantity and Discount of Transactions Table")
-calc_corr_matrix(customers,'quantity','discount')
+calc_corr_matrix(transactions,'quantity','discount')
 
 # Scatter Plots of Customers Table
 
