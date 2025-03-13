@@ -1,0 +1,491 @@
+,product_id,category,subcategory,product_name,price,inventory_level
+0,1,Activity,Swimming,Swimming Mechanism,13.99,189
+1,2,Pets,Aquarium,Aquarium Mechanism,92.95,7
+2,3,Health,First Aid,First Aid Doodad,189.0,160
+3,4,Electronics,Technology,Technology Accessory,28.95,106
+4,5,Activity,Biking,Biking Tool,85.99,181
+5,6,Health,Medicine,Medicine Accessory,127.95,190
+6,7,Automotive,Truck,Truck Device,110.95,107
+7,8,Health,Nutrition,Nutrition Item,62.95,163
+8,9,Automotive,Car,Car Attachment,103.95,119
+9,10,Entertainment,Game,Game G      izmo,176.99,96
+10,11,Activity,Sports,Sports Paraphernalia,39.0,35
+11,12,Pets,Aquarium,Aquarium Device,33.99,220
+12,13,Health,Nutrition,Nutrition Machine,181.0,47
+13,14,Clothing,Jewelry,Jewelry Component,181.95,146
+14,15,Beauty,Hair Care,Hair Care Gadget,120.95,21
+15,16,Clothing,Baby,Baby Component,33.0,41
+16,17,Health,First Aid,First Aid Contraption,186.99,106
+18,19,Clothing,Mens,Mens Machine,137.95,97
+19,20,Entertainment,Movie,Movie Attachment,121.0,28
+20,21,Electronics,Technology,Technology Mechanism,106.99,11
+21,22,Home,Gardening,Gardening Rig,164.0,196
+22,23,Activity,Camping,Camping Tool,168.99,142
+23,24,Health,First Aid,First Aid Whatchamacallit,115.95,140
+24,25,Activity,Beach,Beach Gear,141.0,101
+25,26,Activity,Biking,Biking Accessory,34.99,225
+26,27,Health,Medicine,Medicine Gear,86.0,202
+27,28,Home,Home Improvement,Home Improvement Widget,56.0,149
+28,29,Clothing,Jewelry,Jewelry Widget,177.0,65
+29,30,Electronics,Technology,Technology Gear,197.99,211
+30,31,Pets,Cat,Cat Gizmo,37.99,158
+31,32,Electronics,Technology,Technology Equipment,21.95,211
+32,33,Entertainment,Movie,Movie Kit,60.95,117
+33,34,Entertainment,Game,Game Device,48.0,6
+34,35,Automotive,Engine,Engine Whatchamacallit,101.95,27
+35,36,Home,Storage,Storage Implement,44.99,236
+36,37,Entertainment,Toy,Toy Apparatus,104.0,180
+37,38,Activity,Fitness,Fitness Accessory,11.99,253
+38,39,Home,Bedding,Bedding Mechanism,108.95,42
+39,40,Activity,Beach,Beach Widget,177.95,16
+40,41,Activity,Swimming,Swimming Apparatus,20.0,83
+41,42,Home,Home Improvement,Home Improvement Widget,27.99,150
+42,43,Home,Home Improvement,Home Improvement Item,117.0,200
+43,44,Activity,Sports,Sports Supplies,189.95,213
+44,45,Home,Cooking,Cooking Attachment,152.0,119
+45,46,Beauty,Personal,Personal Item,72.0,248
+46,47,Home,Bedding,Bedding Instrument,79.99,38
+47,48,Electronics,Technology,Technology Widget,66.99,151
+48,49,Beauty,Personal,Personal Accessory,117.95,0
+49,50,Entertainment,Party,Party Paraphernalia,40.0,54
+50,51,Activity,Biking,Biking Mechanism,12.95,161
+52,53,Activity,Sports,Sports Gear,167.95,36
+53,54,Health,First Aid,First Aid Equipment,187.99,118
+54,55,Activity,Biking,Biking Instrument,192.0,5
+55,56,Electronics,Technology,Technology Kit,60.0,254
+56,57,Clothing,Womens,Womens Widget,127.95,23
+57,58,Pets,Cat,Cat Apparatus,143.95,41
+58,59,Home,Home Improvement,Home Improvement Implement,100.0,138
+59,60,Home,Dining,Dining Thingamajig,184.95,222
+60,61,Clothing,Jewelry,Jewelry Mechanism,71.95,49
+61,62,Clothing,Mens,Mens Doodad,17.95,16
+62,63,Automotive,Tire,Tire Mechanism,162.0,246
+63,64,Electronics,Camera,Camera Thingamajig,92.95,50
+64,65,Clothing,Mens,Mens Item,54.95,152
+65,66,Home,Storage,Storage Component,131.95,120
+66,67,Entertainment,Game,Game Contraption,168.99,78
+67,68,Home,Cleaning,Cleaning Gadget,158.95,152
+68,69,Entertainment,Movie,Movie Supplies,147.95,243
+69,70,Home,Furniture,Furniture Gizmo,161.0,108
+70,71,Automotive,Tire,Tire Whatchamacallit,83.0,44
+71,72,Entertainment,Party,Party Paraphernalia,45.95,51
+72,73,Home,Bedding,Bedding Kit,15.99,105
+73,74,Health,Nutrition,Nutrition Device,157.99,39
+74,75,Automotive,Car,Car Thingamajig,23.99,86
+75,76,Home,Cooking,Cooking Paraphernalia,30.99,246
+76,77,Clothing,Baby,Baby Component,166.99,81
+77,78,Activity,Outdoors,Outdoors Machine,93.0,152
+78,79,Beauty,Makeup,Makeup Doodad,90.95,181
+79,80,Activity,Swimming,Swimming Doodad,34.99,236
+80,81,Health,Nutrition,Nutrition Doodad,11.0,12
+81,82,Entertainment,Music,Music Gear,187.95,182
+82,83,Home,Cleaning,Cleaning Supplies,190.0,109
+83,84,Electronics,Computer,Computer Apparatus,159.0,138
+84,85,Home,Furniture,Furniture Supplies,124.0,133
+85,86,Home,Gardening,Gardening Doodad,57.99,24
+86,87,Home,Cooking,Cooking Rig,61.0,83
+87,88,Activity,Beach,Beach Gadget,26.99,181
+88,89,Health,Nutrition,Nutrition Contraption,39.95,76
+89,90,Activity,Swimming,Swimming Supplies,87.99,100
+90,91,Home,Cooking,Cooking Mechanism,83.95,5
+91,92,Health,Vitamin,Vitamin Equipment,38.99,52
+92,93,Activity,Camping,Camping Component,24.0,183
+93,94,Automotive,Engine,Engine Contraption,151.0,105
+94,95,Home,Dining,Dining Apparatus,14.95,135
+95,96,Pets,Cat,Cat Supplies,106.99,65
+96,97,Activity,Beach,Beach Instrument,32.0,132
+97,98,Clothing,Baby,Baby Machine,49.99,221
+98,99,Clothing,Kids,Kids Apparatus,68.95,169
+99,100,Electronics,Phone,Phone Implement,134.0,234
+100,101,Activity,Fitness,Fitness Instrument,179.99,124
+101,102,Pets,Cat,Cat Implement,15.0,80
+103,104,Beauty,Makeup,Makeup Whatchamacallit,92.0,141
+104,105,Automotive,Engine,Engine Tool,196.99,200
+105,106,Beauty,Skin Care,Skin Care Gadget,134.99,114
+106,107,Clothing,Jewelry,Jewelry Paraphernalia,138.0,58
+107,108,Activity,Swimming,Swimming Equipment,118.99,70
+108,109,Health,Vitamin,Vitamin Mechanism,163.95,183
+109,110,Pets,Cat,Cat Whatchamacallit,87.0,194
+110,111,Clothing,Jewelry,Jewelry Component,133.0,25
+111,112,Activity,Fitness,Fitness Implement,126.95,38
+112,113,Activity,Swimming,Swimming Doodad,15.99,122
+113,114,Home,Storage,Storage Instrument,16.99,17
+114,115,Activity,Outdoors,Outdoors Implement,26.0,193
+115,116,Pets,Dog,Dog Equipment,43.99,124
+116,117,Clothing,Baby,Baby Rig,83.95,238
+117,118,Entertainment,Game,Game Supplies,181.99,201
+118,119,Home,Cleaning,Cleaning Gear,148.99,255
+119,120,Health,Vitamin,Vitamin Accessory,197.0,217
+120,121,Activity,Beach,Beach Mechanism,124.99,110
+121,122,Health,First Aid,First Aid Attachment,84.95,227
+122,123,Activity,Swimming,Swimming Tool,197.0,197
+123,124,Beauty,Skin Care,Skin Care Gadget,155.99,162
+124,125,Clothing,Womens,Womens Kit,144.0,3
+125,126,Entertainment,Toy,Toy Accessory,183.95,123
+126,127,Home,Bedding,Bedding Mechanism,156.95,36
+127,128,Clothing,Kids,Kids Gear,145.99,15
+128,129,Home,Cooking,Cooking Machine,193.99,160
+129,130,Entertainment,Toy,Toy Item,190.99,238
+130,131,Activity,Beach,Beach Apparatus,182.99,25
+131,132,Automotive,Tire,Tire Thingamajig,175.99,246
+132,133,Beauty,Personal,Personal Equipment,43.99,193
+133,134,Clothing,Mens,Mens Kit,122.99,20
+134,135,Pets,Cat,Cat Implement,68.99,9
+135,136,Pets,Dog,Dog Equipment,98.99,36
+136,137,Automotive,Truck,Truck Accessory,147.99,14
+137,138,Clothing,Kids,Kids Instrument,93.99,210
+138,139,Activity,Camping,Camping Thingamajig,160.99,111
+139,140,Electronics,Technology,Technology Gizmo,186.99,155
+140,141,Health,First Aid,First Aid Instrument,40.95,86
+141,142,Entertainment,Game,Game Device,81.95,189
+142,143,Electronics,Camera,Camera Mechanism,175.95,129
+143,144,Beauty,Hair Care,Hair Care Instrument,11.0,135
+144,145,Automotive,Truck,Truck Widget,90.95,50
+145,146,Home,Furniture,Furniture Component,69.95,204
+146,147,Entertainment,Movie,Movie Doodad,197.99,192
+147,148,Home,Dining,Dining Paraphernalia,187.95,15
+148,149,Home,Dining,Dining Rig,107.99,227
+149,150,Automotive,Truck,Truck Attachment,38.0,175
+150,151,Activity,Biking,Biking Widget,105.0,113
+151,152,Beauty,Skin Care,Skin Care Component,113.0,48
+152,153,Entertainment,Movie,Movie Supplies,196.95,132
+153,154,Clothing,Baby,Baby Thingamajig,190.0,166
+154,155,Clothing,Baby,Baby Gear,77.0,175
+155,156,Automotive,Engine,Engine Item,124.95,42
+156,157,Beauty,Bath,Bath Doodad,171.0,79
+157,158,Electronics,Camera,Camera Gizmo,109.99,63
+158,159,Home,Dining,Dining Apparatus,158.99,115
+159,160,Clothing,Kids,Kids Contraption,152.99,100
+160,161,Entertainment,Toy,Toy Instrument,17.95,178
+161,162,Entertainment,Game,Game Attachment,17.95,66
+162,163,Entertainment,Music,Music Doodad,32.0,27
+164,165,Entertainment,Toy,Toy Gizmo,140.95,107
+165,166,Home,Storage,Storage Apparatus,14.95,124
+166,167,Home,Storage,Storage Component,199.99,9
+167,168,Home,Storage,Storage Accessory,157.99,75
+168,169,Beauty,Personal,Personal Accessory,68.0,69
+169,170,Beauty,Skin Care,Skin Care Implement,172.99,37
+170,171,Entertainment,Toy,Toy Attachment,194.99,130
+171,172,Activity,Fitness,Fitness Attachment,35.99,166
+172,173,Automotive,Tire,Tire Gizmo,46.0,38
+173,174,Home,Cleaning,Cleaning Implement,190.95,173
+174,175,Clothing,Jewelry,Jewelry Implement,106.95,191
+175,176,Activity,Outdoors,Outdoors Implement,193.99,81
+176,177,Health,Nutrition,Nutrition Implement,44.99,237
+177,178,Health,Medicine,Medicine Instrument,90.99,230
+178,179,Beauty,Makeup,Makeup Rig,59.99,1
+179,180,Pets,Cat,Cat Doodad,62.95,112
+180,181,Pets,Cat,Cat Gear,115.99,225
+181,182,Activity,Biking,Biking Item,179.0,116
+182,183,Home,Cooking,Cooking Paraphernalia,98.99,29
+183,184,Health,Medicine,Medicine Paraphernalia,156.0,8
+184,185,Activity,Sports,Sports Item,81.0,57
+185,186,Health,Medicine,Medicine Gadget,68.99,137
+186,187,Activity,Swimming,Swimming Mechanism,148.0,246
+187,188,Beauty,Skin Care,Skin Care Contraption,141.95,105
+188,189,Electronics,Phone,Phone Attachment,42.0,9
+189,190,Activity,Swimming,Swimming Doodad,134.0,133
+190,191,Activity,Sports,Sports Kit,62.95,184
+191,192,Activity,Camping,Camping Apparatus,24.99,69
+192,193,Home,Cleaning,Cleaning Kit,154.0,162
+193,194,Health,Vitamin,Vitamin Thingamajig,188.95,21
+194,195,Health,Medicine,Medicine Equipment,64.0,75
+195,196,Beauty,Skin Care,Skin Care Whatchamacallit,70.0,233
+196,197,Pets,Cat,Cat Gadget,77.95,91
+197,198,Activity,Camping,Camping Paraphernalia,134.99,150
+199,200,Activity,Sports,Sports Implement,64.0,108
+200,201,Home,Cleaning,Cleaning Whatchamacallit,112.99,149
+201,202,Electronics,Technology,Technology Doodad,24.95,35
+202,203,Home,Bedding,Bedding Paraphernalia,82.99,162
+203,204,Health,Vitamin,Vitamin Gear,21.99,146
+204,205,Home,Storage,Storage Rig,74.0,211
+205,206,Electronics,Phone,Phone Doodad,56.0,174
+206,207,Electronics,Computer,Computer Gear,92.95,163
+207,208,Entertainment,Party,Party Accessory,118.0,94
+208,209,Clothing,Kids,Kids Thingamajig,19.0,19
+209,210,Activity,Beach,Beach Equipment,98.95,228
+210,211,Pets,Cat,Cat Item,182.99,97
+211,212,Beauty,Hair Care,Hair Care Component,164.0,126
+212,213,Electronics,Computer,Computer Gadget,189.95,37
+213,214,Entertainment,Toy,Toy Paraphernalia,159.95,100
+214,215,Home,Furniture,Furniture Widget,161.0,25
+215,216,Health,Medicine,Medicine Mechanism,117.99,77
+216,217,Health,Nutrition,Nutrition Machine,45.95,124
+217,218,Home,Storage,Storage Instrument,137.0,157
+218,219,Home,Furniture,Furniture Thingamajig,95.99,40
+219,220,Pets,Aquarium,Aquarium Item,23.95,219
+220,221,Health,Medicine,Medicine Apparatus,155.99,74
+221,222,Home,Bedding,Bedding Rig,99.0,21
+222,223,Activity,Sports,Sports Kit,199.0,89
+223,224,Home,Dining,Dining Machine,13.0,137
+224,225,Automotive,Truck,Truck Mechanism,140.99,38
+225,226,Beauty,Personal,Personal Attachment,18.99,191
+226,227,Pets,Aquarium,Aquarium Component,91.95,162
+227,228,Entertainment,Movie,Movie Equipment,85.95,28
+228,229,Clothing,Kids,Kids Paraphernalia,19.99,94
+229,230,Clothing,Baby,Baby Attachment,87.95,150
+230,231,Clothing,Womens,Womens Gizmo,21.99,170
+231,232,Clothing,Womens,Womens Gizmo,50.0,189
+232,233,Automotive,Engine,Engine Rig,92.99,189
+233,234,Electronics,Camera,Camera Paraphernalia,193.99,117
+234,235,Electronics,Phone,Phone Gizmo,69.0,7
+235,236,Health,First Aid,First Aid Tool,197.95,37
+236,237,Activity,Outdoors,Outdoors Paraphernalia,155.0,42
+237,238,Home,Home Improvement,Home Improvement Equipment,72.95,169
+238,239,Activity,Sports,Sports Thingamajig,118.0,200
+239,240,Entertainment,Toy,Toy Mechanism,145.99,176
+240,241,Beauty,Hair Care,Hair Care Rig,63.0,245
+241,242,Activity,Beach,Beach Gizmo,64.0,201
+242,243,Electronics,Camera,Camera Paraphernalia,145.0,12
+243,244,Clothing,Kids,Kids Device,168.95,5
+244,245,Activity,Sports,Sports Thingamajig,27.95,224
+245,246,Entertainment,Music,Music Tool,33.99,83
+246,247,Health,First Aid,First Aid Supplies,90.95,43
+247,248,Clothing,Womens,Womens Contraption,177.0,116
+248,249,Automotive,Truck,Truck Widget,162.0,208
+249,250,Beauty,Bath,Bath Item,198.95,155
+250,251,Entertainment,Book,Book Paraphernalia,147.99,66
+251,252,Clothing,Baby,Baby Device,99.0,120
+252,253,Beauty,Bath,Bath Tool,63.99,113
+253,254,Clothing,Womens,Womens Gadget,31.0,156
+254,255,Automotive,Engine,Engine Tool,52.95,101
+255,256,Activity,Biking,Biking Whatchamacallit,108.95,119
+256,257,Activity,Sports,Sports Attachment,145.95,161
+257,258,Beauty,Personal,Personal Device,63.95,84
+258,259,Activity,Fitness,Fitness Supplies,80.99,167
+259,260,Beauty,Skin Care,Skin Care Doodad,28.99,39
+260,261,Automotive,Tire,Tire Item,54.95,188
+261,262,Home,Dining,Dining Item,164.95,167
+262,263,Beauty,Makeup,Makeup Instrument,195.99,172
+263,264,Pets,Aquarium,Aquarium Whatchamacallit,45.95,7
+264,265,Pets,Dog,Dog Gadget,193.0,18
+265,266,Clothing,Kids,Kids Attachment,147.95,176
+266,267,Pets,Cat,Cat Gadget,199.95,227
+267,268,Beauty,Hair Care,Hair Care Tool,158.0,113
+268,269,Entertainment,Movie,Movie Doodad,90.95,219
+269,270,Beauty,Bath,Bath Device,159.0,145
+270,271,Home,Bedding,Bedding Gadget,177.95,79
+271,272,Electronics,Camera,Camera Machine,52.95,107
+272,273,Home,Cooking,Cooking Contraption,143.99,63
+273,274,Home,Storage,Storage Device,42.0,246
+274,275,Automotive,Tire,Tire Doodad,45.99,56
+275,276,Beauty,Skin Care,Skin Care Mechanism,59.99,159
+276,277,Clothing,Womens,Womens Whatchamacallit,114.95,207
+277,278,Clothing,Mens,Mens Contraption,12.95,141
+278,279,Entertainment,Book,Book Component,43.95,191
+279,280,Entertainment,Book,Book Attachment,104.95,21
+280,281,Home,Kitchen,Kitchen Whatchamacallit,173.0,20
+281,282,Clothing,Jewelry,Jewelry Accessory,26.0,233
+282,283,Pets,Cat,Cat Gizmo,42.0,177
+283,284,Home,Kitchen,Kitchen Kit,177.99,227
+284,285,Home,Cleaning,Cleaning Accessory,75.95,226
+285,286,Entertainment,Movie,Movie Rig,156.99,146
+286,287,Clothing,Kids,Kids Gadget,151.99,221
+287,288,Entertainment,Game,Game Thingamajig,138.95,197
+288,289,Home,Home Improvement,Home Improvement Widget,15.0,88
+289,290,Electronics,Phone,Phone Doodad,36.0,99
+290,291,Home,Home Improvement,Home Improvement Whatchamacallit,196.0,68
+291,292,Entertainment,Book,Book Tool,160.95,43
+292,293,Home,Storage,Storage Kit,35.0,93
+293,294,Home,Furniture,Furniture Machine,192.99,95
+294,295,Electronics,Camera,Camera Component,176.99,179
+295,296,Home,Storage,Storage Kit,180.95,73
+296,297,Beauty,Makeup,Makeup Rig,55.99,140
+297,298,Home,Bedding,Bedding Rig,27.95,3
+298,299,Home,Dining,Dining Supplies,174.0,30
+299,300,Home,Cleaning,Cleaning Kit,43.95,25
+300,301,Beauty,Makeup,Makeup Accessory,11.95,91
+301,302,Pets,Dog,Dog Doodad,106.99,67
+302,303,Entertainment,Game,Game Rig,45.0,127
+303,304,Activity,Beach,Beach Whatchamacallit,98.0,239
+304,305,Beauty,Bath,Bath Implement,113.0,4
+305,306,Clothing,Mens,Mens Tool,75.0,82
+306,307,Automotive,Car,Car Kit,61.99,71
+307,308,Activity,Fitness,Fitness Instrument,23.95,103
+308,309,Beauty,Personal,Personal Equipment,117.0,109
+309,310,Entertainment,Toy,Toy Gadget,78.99,85
+310,311,Health,Medicine,Medicine Attachment,126.95,2
+311,312,Beauty,Personal,Personal Rig,10.0,212
+312,313,Home,Home Improvement,Home Improvement Device,67.99,89
+313,314,Automotive,Car,Car Item,125.0,55
+314,315,Activity,Biking,Biking Gadget,133.0,229
+315,316,Automotive,Engine,Engine Whatchamacallit,171.99,45
+316,317,Activity,Swimming,Swimming Rig,137.0,93
+317,318,Automotive,Tire,Tire Gadget,194.99,101
+318,319,Home,Gardening,Gardening Device,36.95,118
+319,320,Pets,Cat,Cat Equipment,21.99,12
+320,321,Home,Home Improvement,Home Improvement Widget,126.99,207
+321,322,Beauty,Personal,Personal Supplies,54.95,104
+322,323,Home,Home Improvement,Home Improvement Paraphernalia,95.0,72
+323,324,Clothing,Kids,Kids Doodad,130.99,207
+324,325,Health,Nutrition,Nutrition Attachment,128.99,73
+325,326,Activity,Swimming,Swimming Device,65.99,235
+326,327,Home,Cleaning,Cleaning Device,103.99,3
+327,328,Health,Nutrition,Nutrition Attachment,30.95,159
+328,329,Clothing,Jewelry,Jewelry Thingamajig,151.99,165
+329,330,Home,Gardening,Gardening Doodad,152.95,186
+330,331,Home,Storage,Storage Tool,160.99,163
+331,332,Clothing,Baby,Baby Mechanism,18.0,189
+332,333,Automotive,Car,Car Thingamajig,61.95,227
+333,334,Home,Furniture,Furniture Device,174.99,235
+334,335,Home,Cleaning,Cleaning Thingamajig,138.99,4
+335,336,Activity,Outdoors,Outdoors Mechanism,54.95,50
+336,337,Home,Cleaning,Cleaning Machine,174.99,144
+337,338,Electronics,Camera,Camera Component,85.99,197
+338,339,Health,Nutrition,Nutrition Gadget,108.95,205
+339,340,Activity,Outdoors,Outdoors Implement,19.99,202
+340,341,Entertainment,Movie,Movie Equipment,95.99,217
+341,342,Home,Storage,Storage Supplies,137.99,116
+342,343,Beauty,Hair Care,Hair Care Item,63.0,217
+343,344,Pets,Aquarium,Aquarium Gadget,123.99,228
+344,345,Pets,Aquarium,Aquarium Item,68.95,100
+345,346,Activity,Fitness,Fitness Machine,75.95,81
+346,347,Automotive,Car,Car Paraphernalia,197.95,102
+347,348,Health,Medicine,Medicine Gear,45.95,35
+348,349,Activity,Camping,Camping Whatchamacallit,40.0,97
+349,350,Health,First Aid,First Aid Mechanism,91.99,252
+350,351,Clothing,Mens,Mens Item,92.99,245
+351,352,Electronics,Technology,Technology Attachment,159.0,124
+352,353,Activity,Swimming,Swimming Machine,131.99,62
+353,354,Electronics,Technology,Technology Whatchamacallit,181.0,219
+355,356,Beauty,Makeup,Makeup Widget,22.95,157
+356,357,Entertainment,Game,Game Attachment,52.95,186
+357,358,Automotive,Engine,Engine Gadget,180.99,22
+358,359,Health,First Aid,First Aid Equipment,171.0,256
+359,360,Pets,Aquarium,Aquarium Doodad,17.0,252
+360,361,Activity,Sports,Sports Apparatus,95.99,16
+361,362,Pets,Aquarium,Aquarium Thingamajig,16.99,52
+362,363,Activity,Outdoors,Outdoors Apparatus,149.95,156
+363,364,Clothing,Mens,Mens Instrument,198.95,84
+364,365,Electronics,Technology,Technology Rig,166.0,93
+365,366,Entertainment,Music,Music Whatchamacallit,85.0,41
+366,367,Clothing,Jewelry,Jewelry Gear,28.0,164
+367,368,Electronics,Phone,Phone Widget,161.95,107
+368,369,Beauty,Bath,Bath Implement,57.99,14
+369,370,Pets,Cat,Cat Tool,107.0,85
+370,371,Pets,Cat,Cat Implement,83.95,67
+371,372,Home,Kitchen,Kitchen Rig,19.0,108
+372,373,Home,Cooking,Cooking Gadget,105.0,138
+373,374,Home,Home Improvement,Home Improvement Widget,155.99,182
+374,375,Electronics,Camera,Camera Item,108.99,208
+375,376,Electronics,Technology,Technology Gadget,41.99,170
+376,377,Beauty,Makeup,Makeup Kit,171.95,182
+377,378,Entertainment,Movie,Movie Thingamajig,37.99,10
+378,379,Electronics,Computer,Computer Equipment,94.99,66
+379,380,Health,Vitamin,Vitamin Gear,166.99,150
+380,381,Electronics,Technology,Technology Gadget,41.99,170
+381,382,Activity,Camping,Camping Contraption,51.99,154
+382,383,Activity,Beach,Beach Paraphernalia,60.95,138
+383,384,Automotive,Car,Car Contraption,128.99,172
+384,385,Clothing,Baby,Baby Paraphernalia,78.0,89
+385,386,Activity,Beach,Beach Attachment,87.99,252
+386,387,Home,Home Improvement,Home Improvement Equipment,190.99,117
+387,388,Health,Vitamin,Vitamin Widget,46.0,6
+388,389,Entertainment,Music,Music Widget,140.0,200
+389,390,Electronics,Technology,Technology Gadget,41.99,170
+390,391,Beauty,Makeup,Makeup Attachment,106.95,248
+391,392,Health,First Aid,First Aid Supplies,103.0,132
+392,393,Beauty,Hair Care,Hair Care Device,117.95,72
+393,394,Entertainment,Party,Party Machine,30.99,206
+394,395,Clothing,Baby,Baby Whatchamacallit,26.95,53
+395,396,Home,Gardening,Gardening Equipment,43.0,225
+396,397,Automotive,Car,Car Mechanism,72.95,62
+397,398,Activity,Camping,Camping Kit,94.0,13
+398,399,Home,Bedding,Bedding Gear,192.99,215
+399,400,Clothing,Mens,Mens Item,96.0,60
+400,401,Clothing,Jewelry,Jewelry Rig,92.95,127
+401,402,Health,Medicine,Medicine Attachment,121.95,254
+402,403,Electronics,Technology,Technology Accessory,65.0,37
+403,404,Electronics,Camera,Camera Instrument,40.0,127
+404,405,Clothing,Mens,Mens Item,99.95,32
+405,406,Pets,Cat,Cat Apparatus,116.0,81
+406,407,Automotive,Tire,Tire Paraphernalia,113.0,54
+407,408,Home,Gardening,Gardening Apparatus,124.0,16
+408,409,Entertainment,Book,Book Implement,75.0,40
+409,410,Clothing,Baby,Baby Tool,149.95,57
+410,411,Pets,Dog,Dog Supplies,74.99,119
+411,412,Health,First Aid,First Aid Instrument,35.0,249
+412,413,Automotive,Engine,Engine Tool,183.0,115
+413,414,Automotive,Car,Car Accessory,20.0,28
+415,416,Activity,Outdoors,Outdoors Instrument,78.99,51
+416,417,Automotive,Engine,Engine Apparatus,68.95,138
+417,418,Electronics,Computer,Computer Device,192.0,33
+418,419,Electronics,Computer,Computer Instrument,28.95,148
+419,420,Clothing,Womens,Womens Equipment,155.99,19
+420,421,Home,Bedding,Bedding Machine,95.0,36
+421,422,Pets,Dog,Dog Gadget,46.99,31
+422,423,Home,Dining,Dining Accessory,116.0,174
+423,424,Clothing,Jewelry,Jewelry Tool,16.99,73
+424,425,Clothing,Jewelry,Jewelry Kit,197.95,252
+425,426,Entertainment,Toy,Toy Gear,122.95,68
+426,427,Home,Furniture,Furniture Gear,53.95,10
+427,428,Clothing,Womens,Womens Kit,126.95,147
+428,429,Electronics,Computer,Computer Apparatus,38.0,138
+429,430,Clothing,Jewelry,Jewelry Tool,16.99,73
+430,431,Pets,Dog,Dog Component,57.0,182
+431,432,Health,Medicine,Medicine Implement,166.0,5
+432,433,Home,Home Improvement,Home Improvement Widget,131.95,132
+433,434,Activity,Outdoors,Outdoors Item,46.99,133
+434,435,Clothing,Womens,Womens Gear,33.95,165
+435,436,Electronics,Technology,Technology Accessory,21.99,151
+436,437,Electronics,Phone,Phone Tool,149.0,77
+437,438,Entertainment,Game,Game Paraphernalia,119.0,39
+438,439,Automotive,Engine,Engine Gadget,191.95,234
+439,440,Clothing,Mens,Mens Item,172.95,49
+440,441,Automotive,Engine,Engine Machine,105.99,43
+441,442,Automotive,Tire,Tire Contraption,62.0,94
+442,443,Activity,Beach,Beach Mechanism,173.95,152
+443,444,Activity,Outdoors,Outdoors Instrument,144.0,156
+444,445,Electronics,Phone,Phone Implement,53.95,138
+445,446,Health,Vitamin,Vitamin Attachment,191.99,145
+446,447,Clothing,Womens,Womens Device,102.95,78
+447,448,Home,Dining,Dining Machine,183.95,4
+448,449,Clothing,Jewelry,Jewelry Tool,16.99,73
+449,450,Electronics,Technology,Technology Rig,45.99,6
+450,451,Beauty,Makeup,Makeup Attachment,130.99,209
+451,452,Activity,Outdoors,Outdoors Implement,179.0,45
+452,453,Entertainment,Toy,Toy Gear,14.0,58
+453,454,Beauty,Bath,Bath Gear,110.95,36
+454,455,Clothing,Jewelry,Jewelry Tool,16.99,73
+455,456,Electronics,Camera,Camera Apparatus,82.0,226
+456,457,Clothing,Kids,Kids Kit,49.0,50
+457,458,Activity,Fitness,Fitness Item,20.95,11
+458,459,Clothing,Jewelry,Jewelry Tool,16.99,73
+459,460,Entertainment,Toy,Toy Equipment,162.99,228
+460,461,Entertainment,Book,Book Paraphernalia,45.99,232
+461,462,Health,Vitamin,Vitamin Supplies,121.0,49
+462,463,Activity,Swimming,Swimming Kit,127.95,46
+463,464,Home,Dining,Dining Gizmo,124.95,108
+464,465,Home,Furniture,Furniture Thingamajig,165.95,248
+465,466,Health,First Aid,First Aid Doodad,189.0,160
+466,467,Electronics,Phone,Phone Device,127.95,107
+467,468,Clothing,Jewelry,Jewelry Supplies,137.99,135
+468,469,Health,Vitamin,Vitamin Attachment,25.0,118
+469,470,Beauty,Hair Care,Hair Care Accessory,89.99,89
+470,471,Activity,Biking,Biking Supplies,40.0,109
+471,472,Entertainment,Music,Music Gizmo,172.95,55
+472,473,Home,Furniture,Furniture Apparatus,52.0,31
+473,474,Automotive,Engine,Engine Kit,90.0,144
+474,475,Home,Storage,Storage Attachment,65.99,86
+475,476,Health,First Aid,First Aid Doodad,189.0,160
+476,477,Health,Medicine,Medicine Item,101.99,69
+477,478,Home,Kitchen,Kitchen Thingamajig,192.0,119
+478,479,Home,Bedding,Bedding Contraption,169.95,73
+479,480,Clothing,Womens,Womens Machine,96.95,172
+480,481,Beauty,Bath,Bath Gadget,56.95,166
+481,482,Health,First Aid,First Aid Doodad,189.0,160
+482,483,Home,Storage,Storage Machine,135.95,242
+483,484,Automotive,Truck,Truck Contraption,125.95,248
+484,485,Entertainment,Toy,Toy Contraption,104.95,112
+485,486,Health,First Aid,First Aid Doodad,189.0,160
+486,487,Automotive,Truck,Truck Rig,51.95,110
+487,488,Entertainment,Movie,Movie Kit,94.95,160
+488,489,Activity,Sports,Sports Contraption,57.0,103
+490,491,Electronics,Camera,Camera Apparatus,184.99,169
+491,492,Home,Dining,Dining Widget,199.99,106
+492,493,Beauty,Hair Care,Hair Care Gear,41.0,251
+493,494,Health,First Aid,First Aid Doodad,189.0,160
+494,495,Entertainment,Book,Book Implement,190.0,84
+496,497,Clothing,Womens,Womens Rig,17.99,18
+497,498,Pets,Aquarium,Aquarium Attachment,161.99,176
+498,500,Clothing,Baby,Room Decor,15.99,200

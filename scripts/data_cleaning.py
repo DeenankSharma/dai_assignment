@@ -63,7 +63,7 @@ customers = customers.fillna({
 customers['city'] = customers['city'].str.replace('NY','New York City')
 
 # replacing USA with United States
-customers['country'] = customers['country'].str.replace('USA','United States')
+customers['country'] = customers['country'].str.replace('US','United States')
 
 # customers with 0 yrs of membership_duration to be marked as new customers, maintaining others
 customers['customer_segment'] = customers['membership_duration'].apply(lambda x : categorize_customer(int(x)))
@@ -106,3 +106,9 @@ transactions['discount'] = transactions['discount'].apply(lambda x : treat_missi
 
 # calculating the accurate price and updating the records
 transactions['price_paid'] = transactions.apply(lambda record : calculate_accurate_price_paid(record),axis=1)
+
+
+# saving cleaned data as csv files
+customers.to_csv('C:/Users/TUF/OneDrive - iitr.ac.in/Desktop/dai/DAI_ASSIGNMENT/data/customers_cleaned.csv')
+products.to_csv('C:/Users/TUF/OneDrive - iitr.ac.in/Desktop/dai/DAI_ASSIGNMENT/data/products_cleaned.csv')
+transactions.to_csv('C:/Users/TUF/OneDrive - iitr.ac.in/Desktop/dai/DAI_ASSIGNMENT/data/transactions_cleaned.csv')

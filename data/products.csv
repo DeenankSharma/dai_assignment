@@ -287,7 +287,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 286,Entertainment,Movie,Movie Rig,156.99,146
 287,Clothing,Kids,Kids Gadget,151.99,221
 288,Entertainment,Game,Game Thingamajig,138.95,197
-289,Home,Home Improvement,Home Improvement Thingamajig,15,88
+289,Home,Home Improvement,Home Improvement Widget,15,88
 290,Electronics,Phone,Phone Doodad,36,99
 291,Home,Home Improvement,Home Improvement Whatchamacallit,196,68
 292,Entertainment,Book,Book Tool,160.95,43
@@ -319,7 +319,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 318,Automotive,Tire,Tire Gadget,194.99,101
 319,Home,Gardening,Gardening Device,36.95,118
 320,Pets,Cat,Cat Equipment,21.99,12
-321,Home,Home Improvement,Home Improvement Thingamajig,126.99,207
+321,Home,Home Improvement,Home Improvement Widget,126.99,207
 322,Beauty,Personal,Personal Supplies,54.95,104
 323,Home,Home Improvement,Home Improvement Paraphernalia,95,72
 324,Clothing,Kids,Kids Doodad,130.99,207
@@ -431,7 +431,7 @@ product_id,category,subcategory,product_name,price,inventory_level
 430,Clothing,Jewelry,Jewelry Tool,16.99,73
 431,Pets,Dog,Dog Component,57,182
 432,Health,Medicine,Medicine Implement,166,5
-433,Home,Home Improvement,Home Improvement Thingamajig,131.95,132
+433,Home,Home Improvement,Home Improvement Widget,131.95,132
 434,Activity,Outdoors,Outdoors Item,46.99,133
 435,Clothing,Womens,Womens Gear,33.95,165
 436,Electronics,Technology,Technology Accessory,21.99,151

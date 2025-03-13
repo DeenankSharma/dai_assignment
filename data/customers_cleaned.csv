@@ -1,0 +1,501 @@
+,customer_id,first_name,last_name,age,gender,city,state,country,membership_duration,customer_segment
+0,1,Artur,Lochran,87,M,Houston,Unknown,United States,2.0,regular
+1,2,Winonah,Hansed,47,F,Spring,Texas,United States,0.0,new
+2,3,Adore,Unknown,44,F,Salt Lake City,Utah,United States,5.0,regular
+3,4,Lazar,Unknown,24,M,Cincinnati,Unknown,United States,10.0,premium
+4,5,Karney,Nanetti,43,M,Woburn,Unknown,United States,10.0,premium
+5,6,Rasla,Franzen,87,F,New York City,New York,United States,9.0,premium
+6,7,Thayne,Fulbrook,91,M,Trenton,New Jersey,United States,8.0,premium
+7,8,Norris,Unknown,26,M,Chattanooga,Tennessee,United States,6.0,premium
+8,9,Chiarra,Strong,48,F,San Bernardino,California,United States,1.0,new
+9,10,Merle,Walczynski,28,F,Phoenix,Arizona,United States,2.0,regular
+10,11,Pippy,Threlfall,39,F,Arlington,Texas,United States,1.0,new
+11,12,Biddie,Asquith,71,F,Springfield,Illinois,United States,5.0,regular
+12,13,Desiree,Rubertis,72,F,Laurel,Unknown,United States,1.0,new
+13,14,Ulises,Tremonte,48,M,Melbourne,Florida,United States,5.0,regular
+14,15,Jeramey,Yanshinov,18,M,Santa Monica,California,United States,2.0,regular
+15,16,Sharity,Rodrigues,66,F,New York City,New York,United States,0.0,new
+16,17,Myron,Salvati,48,M,Milwaukee,Wisconsin,United States,2.0,regular
+17,18,Sibyl,Dacombe,50,M,San Bernardino,California,United States,6.0,premium
+18,19,Harlen,Spinetti,78,M,Los Angeles,Unknown,United States,10.0,premium
+19,20,Eamon,Lumby,49,M,Dallas,Texas,United States,5.0,regular
+20,21,Adan,Laycock,37,M,Huntington,Unknown,United States,0.0,new
+21,22,Mike,Collister,8,M,Young America,Minnesota,United States,7.0,premium
+22,23,Susanne,Prenty,62,F,Washington,Unknown,United States,7.0,premium
+23,24,Jacques,Johanssen,63,M,Charleston,Unknown,United States,1.0,new
+24,25,Tarrah,Chesswas,43,F,Waco,Texas,United States,7.0,premium
+25,26,Anson,Van Der Hoog,76,M,Lakeland,Florida,United States,8.0,premium
+26,27,Winnifred,Murton,59,F,Tucson,Unknown,United States,8.0,premium
+27,28,Luca,Unknown,55,M,Portland,Oregon,United States,6.0,premium
+28,29,Gottfried,Ceeley,35,M,Montgomery,Alabama,United States,0.0,new
+29,30,Arabele,Prall,77,F,San Francisco,California,United States,0.0,new
+30,31,Anna,Bilbee,51,F,South Bend,Indiana,United States,7.0,premium
+31,32,Hedwig,Common,24,F,Grand Junction,Colorado,United States,8.0,premium
+32,33,Keen,Bockin,84,M,Rochester,New York,United States,10.0,premium
+33,34,Roy,Sallery,75,M,Milwaukee,Wisconsin,United States,9.0,premium
+34,35,Carlie,Russam,82,F,Spokane,Washington,United States,7.0,premium
+35,36,Georges,Mattys,87,M,Miami,Unknown,United States,7.0,premium
+36,37,Glynnis,Fetherstan,82,F,Tucson,Unknown,United States,5.0,regular
+37,38,Caron,Siely,11,F,Albuquerque,New Mexico,United States,10.0,premium
+38,39,Krysta,Roxburch,44,F,Metairie,Louisiana,United States,1.0,new
+39,40,Amos,Lupson,2,M,Omaha,Nebraska,United States,0.0,new
+40,41,Ilysa,Robbeke,92,F,North Little Rock,Unknown,United States,4.0,regular
+41,42,Reinald,Eakly,70,M,Worcester,Unknown,United States,3.0,regular
+42,43,Claudetta,Terbeek,86,F,Washington,District of Columbia,United States,3.0,regular
+43,44,Valli,Berendsen,81,F,Saint Petersburg,Florida,United States,0.0,new
+44,45,Claybourne,Goadsby,97,M,Albany,New York,United States,9.0,premium
+45,46,Masha,Hort,50,F,Visalia,California,United States,5.0,regular
+46,47,Loreen,Troman,25,F,Macon,Georgia,United States,9.0,premium
+47,48,Walsh,Garrit,69,M,Colorado Springs,Colorado,United States,1.0,new
+48,49,Kaitlynn,Barbrook,45,F,Young America,Minnesota,United States,0.0,new
+49,50,Jason,Unknown,90,M,Fayetteville,North Carolina,United States,8.0,premium
+50,51,Darcee,McCarter,17,F,Louisville,Kentucky,United States,8.0,premium
+51,52,Kendre,Kincla,66,F,Pensacola,Florida,United States,6.0,premium
+52,53,Lorenzo,Burch,66,M,Louisville,Kentucky,United States,9.0,premium
+53,54,Kippy,Unknown,74,M,Orange,California,United States,7.0,premium
+54,55,Corrine,Fretwell,59,F,London,Kentucky,United States,3.0,regular
+55,56,Brit,Unknown,48,F,North Hollywood,California,United States,0.0,new
+56,57,Sabina,Borland,5,F,Los Angeles,Unknown,United States,6.0,premium
+57,58,Sumner,Doak,8,M,Albany,Unknown,United States,6.0,premium
+58,59,Richie,Jinkin,65,M,Albany,Unknown,United States,5.0,regular
+59,60,Almire,Emby,89,F,Baltimore,Maryland,United States,7.0,premium
+60,61,Shermie,Crush,84,M,Pasadena,Unknown,United States,9.0,premium
+61,62,Tiff,Passman,24,F,Dallas,Texas,United States,7.0,premium
+62,63,Dannye,Unknown,15,F,Gainesville,Florida,United States,1.0,new
+63,64,Rosabella,Unknown,98,F,Canton,Ohio,United States,4.0,regular
+64,65,Ceil,Whodcoat,89,F,Albuquerque,Unknown,United States,8.0,premium
+65,66,Bethanne,Swinnerton,57,F,New York City,Unknown,United States,6.0,premium
+66,67,Trevar,Unknown,24,M,Memphis,Tennessee,United States,9.0,premium
+67,68,Gris,Vinnick,7,M,Minneapolis,Minnesota,United States,9.0,premium
+68,69,Cathlene,Palk,85,F,Fort Myers,Florida,United States,5.0,regular
+69,70,Joshuah,Unknown,26,M,Greensboro,North Carolina,United States,7.0,premium
+70,71,Kim,Sweetsur,53,F,Peoria,Illinois,United States,5.0,regular
+71,72,Roseline,Sugars,76,F,Delray Beach,Florida,United States,7.0,premium
+72,73,Rebecka,Winterborne,27,F,Tyler,Texas,United States,7.0,premium
+73,74,Spence,Unknown,92,M,Albuquerque,New Mexico,United States,8.0,premium
+74,75,Jasmin,Mion,57,F,Denver,Colorado,United States,5.0,regular
+75,76,Percy,Sawood,87,M,Newark,Delaware,United States,8.0,premium
+76,77,Trip,Unknown,16,M,Tulsa,Oklahoma,United States,8.0,premium
+77,78,Phillida,Hosby,53,F,Shreveport,Unknown,United States,8.0,premium
+78,79,Erroll,Soppeth,92,M,Dayton,Ohio,United States,10.0,premium
+79,80,Zelda,Newe,11,F,New Orleans,Unknown,United States,7.0,premium
+80,81,Corabella,Matchell,7,F,Corona,California,United States,3.0,regular
+81,82,Vern,Pearson,71,M,Tyler,Texas,United States,5.0,regular
+82,83,Jehu,Norsworthy,74,M,Shreveport,Louisiana,United States,3.0,regular
+83,84,Russell,Fey,88,M,Fargo,North Dakota,United States,6.0,premium
+84,85,Blake,Jackson,10,F,Salt Lake City,Utah,United States,4.0,regular
+85,86,Essy,Potell,34,F,Memphis,Tennessee,United States,9.0,premium
+86,87,Herold,De Antoni,99,M,Green Bay,Wisconsin,United States,8.0,premium
+87,88,Nelli,D'Ambrosio,35,F,Santa Clara,California,United States,6.0,premium
+88,89,Skipp,Fradson,11,M,Milwaukee,Wisconsin,United States,0.0,new
+89,90,Brewster,Unknown,75,M,Anaheim,California,United States,5.0,regular
+90,91,Mick,Lillecrop,53,M,Inglewood,California,United States,5.0,regular
+91,92,Jose,Micheu,88,M,Colorado Springs,Unknown,United States,1.0,new
+92,93,Ninnetta,Arnao,30,F,Boston,Massachusetts,United States,0.0,new
+93,94,Karil,Isted,2,F,San Angelo,Texas,United States,0.0,new
+94,95,Angelique,Leithgoe,29,F,Naples,Unknown,United States,7.0,premium
+95,96,Lammond,Barendtsen,39,M,Corpus Christi,Texas,United States,4.0,regular
+96,97,Welch,Unknown,86,M,Houston,Texas,United States,6.0,premium
+97,98,Mike,Gaylor,43,M,Lakeland,Unknown,United States,5.0,regular
+98,99,Peder,Dohmann,42,M,San Francisco,California,United States,10.0,premium
+99,100,Waite,Harcarse,28,M,Maple Plain,Unknown,United States,4.0,regular
+100,101,Samantha,Scrivner,77,F,Athens,Georgia,United States,2.0,regular
+101,102,Dre,Cordier,63,F,Washington,District of Columbia,United States,4.0,regular
+102,103,Glori,Unknown,21,F,Waco,Texas,United States,6.0,premium
+103,104,Creighton,Alesi,6,M,Pensacola,Florida,United States,2.0,regular
+104,105,Tierney,Summons,81,F,Huntington Beach,California,United States,4.0,regular
+105,106,Penrod,McGivena,30,M,Seattle,Washington,United States,7.0,premium
+106,107,Eba,Sandry,58,F,Gastonia,North Carolina,United States,10.0,premium
+107,108,Vanessa,Argontt,79,F,Cincinnati,Ohio,United States,10.0,premium
+108,109,Kimbra,Lumpkin,37,F,Hampton,Unknown,United States,9.0,premium
+109,110,Cammy,Cuzen,56,F,Durham,North Carolina,United States,8.0,premium
+110,111,Katherina,Pittem,29,F,Fort Pierce,Florida,United States,0.0,new
+111,112,Alick,Jager,4,M,San Bernardino,Unknown,United States,0.0,new
+112,113,Sibyl,Sines,84,F,Tucson,Arizona,United States,9.0,premium
+113,114,Venus,Luck,13,F,Schenectady,Unknown,United States,9.0,premium
+114,115,Shelley,Brake,10,F,Lexington,Kentucky,United States,8.0,premium
+115,116,Dore,Ferrero,22,M,Austin,Texas,United States,7.0,premium
+116,117,Johnathan,Unknown,59,M,Houston,Texas,United States,0.0,new
+117,118,Jennine,Henrichs,52,F,Chattanooga,Unknown,United States,3.0,regular
+118,119,Roanna,Unknown,38,F,Columbus,Georgia,United States,8.0,premium
+119,120,Rhys,Willcott,99,M,Washington,District of Columbia,United States,7.0,premium
+120,121,Dani,Unknown,83,M,Irvine,Unknown,United States,2.0,regular
+121,122,Elijah,Alen,69,M,Wichita Falls,Texas,United States,5.0,regular
+122,123,Hailey,Melloy,100,M,Los Angeles,California,United States,1.0,new
+123,124,Zolly,Jezzard,41,M,Chicago,Unknown,United States,3.0,regular
+124,125,Reta,Burnitt,96,F,Chicago,Illinois,United States,7.0,premium
+125,126,Tab,Cottey,88,M,Anaheim,Unknown,United States,1.0,new
+126,127,Rosalinda,MacAnellye,17,F,Tulsa,Unknown,United States,2.0,regular
+127,128,Winonah,le Keux,57,F,Silver Spring,Unknown,United States,7.0,premium
+128,129,Brodie,Kop,37,M,San Antonio,Texas,United States,1.0,new
+129,130,Gaylene,Deniset,35,F,Roanoke,Virginia,United States,9.0,premium
+130,131,Kip,Everest,30,F,Fort Worth,Texas,United States,7.0,premium
+131,132,Sherwood,Unknown,49,M,West Palm Beach,Unknown,United States,4.0,regular
+132,133,Atalanta,Straniero,3,F,Saint Louis,Unknown,United States,7.0,premium
+133,134,Shayne,Broomhead,81,M,Baltimore,Unknown,United States,6.0,premium
+134,135,Hyacinthia,Teall,12,F,Houston,Texas,United States,3.0,regular
+135,136,Mei,Unknown,6,F,Tampa,Florida,United States,8.0,premium
+136,137,Curcio,Wedgbrow,64,M,Tulsa,Oklahoma,United States,1.0,new
+137,138,Vinson,Berrill,20,M,Irvine,California,United States,7.0,premium
+138,139,Felicity,Clayhill,34,F,San Francisco,California,United States,8.0,premium
+139,140,Doralynne,Delort,59,F,Boise,Unknown,United States,2.0,regular
+140,141,Jayme,Grisbrook,43,F,Oklahoma City,Oklahoma,United States,9.0,premium
+141,142,Helaina,Benedict,90,F,Washington,District of Columbia,United States,4.0,regular
+142,143,Merry,Seaton,35,M,Las Vegas,Nevada,United States,10.0,premium
+143,144,Ranee,Banaszczyk,44,F,Atlanta,Unknown,United States,1.0,new
+144,145,Berky,McDarmid,48,M,Washington,District of Columbia,United States,3.0,regular
+145,146,Maryjane,Saur,86,F,New York City,Unknown,United States,7.0,premium
+146,147,Marlowe,Wahncke,7,M,Fresno,California,United States,2.0,regular
+147,148,Laurie,Westlake,54,F,Sioux Falls,South Dakota,United States,6.0,premium
+148,149,Noah,McNerlin,11,M,Cleveland,Ohio,United States,9.0,premium
+149,150,Dyan,Gatecliffe,39,F,Austin,Texas,United States,4.0,regular
+150,151,Josias,Izen,75,M,Prescott,Unknown,United States,3.0,regular
+151,152,Domeniga,Degli Antoni,60,F,Paterson,Unknown,United States,9.0,premium
+152,153,Marina,Trim,39,F,Boston,Massachusetts,United States,10.0,premium
+153,154,Meyer,Unknown,59,M,Santa Monica,California,United States,9.0,premium
+154,155,Lazarus,Cotman,80,M,Lincoln,Unknown,United States,3.0,regular
+155,156,Humberto,Dennistoun,98,M,Austin,Texas,United States,8.0,premium
+156,157,Allan,Livesley,46,M,Sioux Falls,South Dakota,United States,2.0,regular
+157,158,Bunnie,Berndtssen,55,F,Sacramento,California,United States,0.0,new
+158,159,Robinson,Unknown,65,M,El Paso,Texas,United States,4.0,regular
+159,160,Jeffy,Bossom,25,M,Knoxville,Unknown,United States,10.0,premium
+160,161,Juliann,Pevie,64,F,Bonita Springs,Florida,United States,5.0,regular
+161,162,Dominga,Kevlin,50,F,Portland,Oregon,United States,5.0,regular
+162,163,Biddy,Backsal,57,F,Bronx,New York,United States,8.0,premium
+163,164,Clem,Ploughwright,18,F,Syracuse,New York,United States,10.0,premium
+164,165,Brunhilde,Uden,39,F,Tulsa,Oklahoma,United States,9.0,premium
+165,166,Hadrian,Ciciura,39,M,Washington,Unknown,United States,10.0,premium
+166,167,Bev,Danelet,22,F,New York City,New York,United States,5.0,regular
+167,168,Davie,Roubottom,17,M,Bozeman,Unknown,United States,3.0,regular
+168,169,Jeanette,Fabler,70,F,Long Beach,California,United States,9.0,premium
+169,170,Denni,Willgrass,88,F,Bowie,Unknown,United States,4.0,regular
+170,171,Arnaldo,Haville,9,M,Redwood City,California,United States,5.0,regular
+171,172,Ronny,Orwin,71,M,Atlanta,Georgia,United States,6.0,premium
+172,173,Arne,Sweatland,55,M,Las Vegas,Nevada,United States,1.0,new
+173,174,Adamo,Rix,4,M,Albuquerque,Unknown,United States,3.0,regular
+174,175,Moishe,Farny,54,M,Kansas City,Missouri,United States,1.0,new
+175,176,Parker,Allner,22,M,Amarillo,Texas,United States,5.0,regular
+176,177,Ulberto,MacAlister,81,M,Sarasota,Florida,United States,0.0,new
+177,178,Jone,Scaysbrook,42,M,Des Moines,Iowa,United States,7.0,premium
+178,179,Alan,Unknown,29,M,Lake Charles,Louisiana,United States,2.0,regular
+179,180,Sumner,Eburah,92,M,Charlotte,North Carolina,United States,3.0,regular
+180,181,Bancroft,Ainscow,75,M,Salt Lake City,Utah,United States,8.0,premium
+181,182,Eliza,Bradford,78,F,White Plains,New York,United States,6.0,premium
+182,183,Gerhard,Jewer,22,M,Beaumont,Texas,United States,10.0,premium
+183,184,Helli,Reyson,53,F,Vero Beach,Unknown,United States,6.0,premium
+184,185,Nicolas,McDermot,52,M,Jamaica,New York,United States,4.0,regular
+185,186,Meredith,Tritten,53,M,Houston,Unknown,United States,7.0,premium
+186,187,Gerianna,Heinig,76,F,El Paso,Texas,United States,0.0,new
+187,188,Sibylla,O'Nions,20,F,Dallas,Texas,United States,10.0,premium
+188,189,Florrie,Unknown,21,F,Denver,Colorado,United States,2.0,regular
+189,190,Efrem,Garford,61,M,San Francisco,Unknown,United States,10.0,premium
+190,191,Natassia,Mulqueeny,76,F,Rockford,Illinois,United States,0.0,new
+191,192,Kipp,Taylor,76,M,Oklahoma City,Oklahoma,United States,5.0,regular
+192,193,Janos,Pickaver,37,M,Amarillo,Texas,United States,3.0,regular
+193,194,Briano,Cinelli,74,M,North Port,Florida,United States,3.0,regular
+194,195,Isidore,Horribine,96,M,Topeka,Kansas,United States,5.0,regular
+195,196,Fayth,Godehard.sf,8,F,Jacksonville,Unknown,United States,6.0,premium
+196,197,Rhoda,Gounel,95,F,Indianapolis,Unknown,United States,9.0,premium
+197,198,Marci,Steptow,77,F,Sacramento,Unknown,United States,6.0,premium
+198,199,Job,Blasli,60,M,Colorado Springs,Colorado,United States,7.0,premium
+199,200,Janna,Whitford,60,F,Metairie,Unknown,United States,3.0,regular
+200,201,Sanders,McLleese,82,M,Washington,District of Columbia,United States,9.0,premium
+201,202,Joey,Gherardesci,64,M,Hattiesburg,Unknown,United States,3.0,regular
+202,203,Forster,Brimm,82,M,Brooklyn,Unknown,United States,4.0,regular
+203,204,Peadar,Unknown,37,M,Charlotte,North Carolina,United States,6.0,premium
+204,205,Malvin,Seide,88,M,Richmond,Unknown,United States,8.0,premium
+205,206,Benyamin,Flook,94,M,Cumming,Georgia,United States,1.0,new
+206,207,Axe,Orchart,89,M,Evansville,Indiana,United States,0.0,new
+207,208,Georgeanna,Shelford,90,F,Tampa,Unknown,United States,6.0,premium
+208,209,Ellsworth,Latehouse,26,M,Washington,District of Columbia,United States,0.0,new
+209,210,Lilllie,Philliskirk,65,F,Amarillo,Texas,United States,10.0,premium
+210,211,Derk,Pratte,36,M,Cincinnati,Ohio,United States,9.0,premium
+211,212,Noam,Kynge,74,M,Honolulu,Unknown,United States,9.0,premium
+212,213,Wit,Fallow,81,M,Orlando,Florida,United States,2.0,regular
+213,214,Felita,Gatrell,37,F,Washington,District of Columbia,United States,8.0,premium
+214,215,Brien,Chinge,2,M,Newton,Massachusetts,United States,2.0,regular
+215,216,Kalinda,Gotliffe,46,F,Baltimore,Maryland,United States,5.0,regular
+216,217,Mathe,Benneyworth,1,M,Los Angeles,California,United States,6.0,premium
+217,218,Maje,Aulton,44,M,Nashville,Tennessee,United States,8.0,premium
+218,219,Sascha,Unknown,4,M,Hollywood,Unknown,United States,4.0,regular
+219,220,Vivi,Stockwell,99,F,Washington,Unknown,United States,3.0,regular
+220,221,Consalve,Unknown,77,M,Boston,Unknown,United States,9.0,premium
+221,222,Lucien,Lecky,14,M,Miami,Florida,United States,3.0,regular
+222,223,Patrice,Snaden,18,F,Phoenix,Arizona,United States,7.0,premium
+223,224,Mile,Unknown,40,M,Columbia,South Carolina,United States,9.0,premium
+224,225,Angeli,Unknown,13,M,Reno,Nevada,United States,4.0,regular
+225,226,Garey,Stiles,89,M,Dallas,Texas,United States,3.0,regular
+226,227,Bearnard,Suggate,40,M,Pittsburgh,Pennsylvania,United States,2.0,regular
+227,228,Wallace,Brommage,71,M,Detroit,Michigan,United States,4.0,regular
+228,229,Tirrell,Howieson,85,M,Minneapolis,Minnesota,United States,6.0,premium
+229,230,Jacobo,Churches,66,M,San Francisco,California,United States,5.0,regular
+230,231,Harvey,Osorio,68,M,Muskegon,Michigan,United States,5.0,regular
+231,232,Ailbert,Rowcliffe,89,M,Knoxville,Tennessee,United States,2.0,regular
+232,233,Glenna,Thames,100,F,Lafayette,Louisiana,United States,6.0,premium
+233,234,Terrie,Fruish,86,F,Mobile,Unknown,United States,5.0,regular
+234,235,Brodie,Mingauld,10,M,Murfreesboro,Unknown,United States,3.0,regular
+235,236,Rayna,Fonquernie,10,F,Norfolk,Virginia,United States,1.0,new
+236,237,Alonzo,Glancy,68,M,Houston,Texas,United States,0.0,new
+237,238,Peria,Unknown,25,F,Fresno,California,United States,10.0,premium
+238,239,Benn,Martinat,33,M,Brooklyn,New York,United States,3.0,regular
+239,240,Algernon,Wenban,47,M,Washington,District of Columbia,United States,8.0,premium
+240,241,Dulcie,Laugherane,59,F,Morgantown,West Virginia,United States,6.0,premium
+241,242,Rudolf,Strank,21,M,Omaha,Nebraska,United States,9.0,premium
+242,243,Ethelyn,Somerled,51,F,Tulsa,Unknown,United States,6.0,premium
+243,244,Coop,Unknown,26,M,Memphis,Tennessee,United States,5.0,regular
+244,245,Rory,Morales,41,M,Valdosta,Georgia,United States,6.0,premium
+245,246,Madison,Morant,9,M,Minneapolis,Minnesota,United States,3.0,regular
+246,247,Sig,Trent,99,M,Stockton,Unknown,United States,7.0,premium
+247,248,Dotty,Whall,96,F,Peoria,Illinois,United States,3.0,regular
+248,249,Ulla,McNab,59,F,Rockford,Illinois,United States,7.0,premium
+249,250,Shaun,Benwell,6,M,Rochester,New York,United States,6.0,premium
+250,251,Angelico,Gittose,13,M,Dallas,Texas,United States,6.0,premium
+251,252,Lynelle,Braidford,99,F,Lehigh Acres,Florida,United States,4.0,regular
+252,253,Hervey,Unknown,76,M,Terre Haute,Unknown,United States,5.0,regular
+253,254,Decca,Scapens,28,M,Boca Raton,Florida,United States,4.0,regular
+254,255,Ulysses,Puddephatt,26,M,Houston,Texas,United States,6.0,premium
+255,256,Davidde,Hyland,81,M,Muncie,Indiana,United States,9.0,premium
+256,257,Urbain,Sommers,77,M,Round Rock,Texas,United States,10.0,premium
+257,258,Toddie,Ambrogioni,65,M,Albany,Unknown,United States,10.0,premium
+258,259,Bianca,Benbough,64,F,Aiken,Unknown,United States,1.0,new
+259,260,Aron,Grocott,63,M,New York City,New York,United States,0.0,new
+260,261,Demetria,Eynon,47,F,Worcester,Unknown,United States,7.0,premium
+261,262,Vern,Mathelon,42,M,Wilmington,Delaware,United States,1.0,new
+262,263,Carol-jean,Limbourne,48,F,Anchorage,Alaska,United States,2.0,regular
+263,264,Torey,Talman,56,M,Bethesda,Maryland,United States,3.0,regular
+264,265,Adrea,Maciak,52,F,Denton,Texas,United States,3.0,regular
+265,266,Spenser,Wannell,72,M,Peoria,Illinois,United States,7.0,premium
+266,267,Ferguson,Szwandt,67,M,New York City,Unknown,United States,0.0,new
+267,268,Field,Anstiss,74,M,Lafayette,Louisiana,United States,5.0,regular
+268,269,Hynda,Ascrofte,81,F,Lake Charles,Louisiana,United States,7.0,premium
+269,270,Krystal,Focke,97,F,Akron,Unknown,United States,6.0,premium
+270,271,Andrus,Peacocke,21,M,Decatur,Illinois,United States,3.0,regular
+271,272,Rebekkah,Shellcross,50,F,Mobile,Unknown,United States,4.0,regular
+272,273,Hector,Alforde,59,M,North Port,Florida,United States,0.0,new
+273,274,Bartie,Askie,48,M,San Diego,California,United States,9.0,premium
+274,275,Hubert,Flemmich,75,M,Orlando,Florida,United States,8.0,premium
+275,276,Lesli,Williamson,92,F,Saint Louis,Unknown,United States,2.0,regular
+276,277,Rhodie,Goaley,48,F,Knoxville,Tennessee,United States,10.0,premium
+277,278,Alyosha,Bushel,67,M,Rochester,New York,United States,0.0,new
+278,279,Vernice,Ramshaw,94,F,Washington,District of Columbia,United States,7.0,premium
+279,280,Shea,Bergeau,8,F,Saint Petersburg,Florida,United States,9.0,premium
+280,281,Holly,Ensley,6,M,Lehigh Acres,Florida,United States,9.0,premium
+281,282,Alene,Unknown,18,F,Roanoke,Unknown,United States,7.0,premium
+282,283,Jory,Baine,98,M,Nashville,Unknown,United States,6.0,premium
+283,284,Olly,Milbourne,71,F,Nashville,Tennessee,United States,8.0,premium
+284,285,Marquita,Biasini,5,F,Irvine,California,United States,2.0,regular
+285,286,Ree,Trinkwon,65,F,Honolulu,Hawaii,United States,3.0,regular
+286,287,Marvin,aManger,13,M,Saint Paul,Unknown,United States,3.0,regular
+287,288,Ewen,Decourt,84,M,El Paso,Texas,United States,6.0,premium
+288,289,Nial,Unknown,34,M,Wilmington,Delaware,United States,6.0,premium
+289,290,Mauricio,Canto,54,M,Pittsburgh,Unknown,United States,10.0,premium
+290,291,Stinky,Greedyer,14,M,Whittier,California,United States,0.0,new
+291,292,Annadiane,Reynoldson,37,F,Milwaukee,Wisconsin,United States,6.0,premium
+292,293,Diann,Considine,76,F,El Paso,Unknown,United States,3.0,regular
+293,294,Michelle,Edmands,61,F,Great Neck,New York,United States,1.0,new
+294,295,Malanie,Sannes,76,F,El Paso,Texas,United States,6.0,premium
+295,296,Amberly,Tupper,9,F,Fort Smith,Arkansas,United States,9.0,premium
+296,297,Lemuel,Playford,21,M,New York City,Unknown,United States,5.0,regular
+297,298,Carleton,Amesbury,62,M,Bryan,Unknown,United States,3.0,regular
+298,299,Lyle,Raitt,90,M,El Paso,Texas,United States,2.0,regular
+299,300,Oona,Rope,36,F,Tulsa,Unknown,United States,5.0,regular
+300,301,Andree,Paskin,21,F,Columbus,Unknown,United States,5.0,regular
+301,302,Luca,Starte,21,M,Irvine,California,United States,9.0,premium
+302,303,Ody,Sissel,95,M,Salt Lake City,Unknown,United States,8.0,premium
+303,304,Orazio,Siseland,83,M,New York City,New York,United States,2.0,regular
+304,305,Toddy,Scartifield,100,M,Sacramento,California,United States,5.0,regular
+305,306,Daniella,Fawdrey,26,F,Littleton,Colorado,United States,10.0,premium
+306,307,Letisha,Vials,85,F,Fort Collins,Colorado,United States,1.0,new
+307,308,Carlie,Unknown,12,F,Sacramento,California,United States,6.0,premium
+308,309,Maureen,Ashington,33,F,Warren,Ohio,United States,1.0,new
+309,310,Haily,Skillett,9,F,Honolulu,Unknown,United States,10.0,premium
+310,311,Konstantine,Quinnet,72,M,Charleston,West Virginia,United States,2.0,regular
+311,312,Rosabella,Daniell,28,F,Spokane,Washington,United States,3.0,regular
+312,313,Onofredo,Anfonsi,58,M,Orlando,Florida,United States,2.0,regular
+313,314,Alexei,Onele,72,M,Cincinnati,Ohio,United States,2.0,regular
+314,315,Galvin,Deaville,80,M,Silver Spring,Maryland,United States,7.0,premium
+315,316,Sharia,Cridland,7,F,Providence,Rhode Island,United States,7.0,premium
+316,317,Kamila,Unknown,57,F,Houston,Texas,United States,3.0,regular
+317,318,Loise,Littlefair,97,F,Houston,Texas,United States,4.0,regular
+318,319,Essy,Dawtry,46,F,College Station,Unknown,United States,9.0,premium
+319,320,Addison,Moorton,21,M,Denver,Unknown,United States,6.0,premium
+320,321,Dion,Hudson,45,M,Fort Smith,Unknown,United States,5.0,regular
+321,322,Alexander,Saunderson,83,M,Omaha,Nebraska,United States,10.0,premium
+322,323,Emeline,Andriolli,89,F,Omaha,Nebraska,United States,2.0,regular
+323,324,Adolphus,Konzelmann,48,M,Tulsa,Oklahoma,United States,3.0,regular
+324,325,Felipe,Doick,50,M,Ogden,Utah,United States,4.0,regular
+325,326,Stephannie,McMaster,32,F,Great Neck,New York,United States,5.0,regular
+326,327,Bernard,Allsebrook,61,M,Daytona Beach,Florida,United States,10.0,premium
+327,328,Emmie,Southby,30,F,Columbia,South Carolina,United States,1.0,new
+328,329,Vida,Balbeck,63,F,San Antonio,Texas,United States,5.0,regular
+329,330,Conan,Lamden,91,M,El Paso,Texas,United States,9.0,premium
+330,331,Dennison,Goodie,74,M,New Orleans,Louisiana,United States,4.0,regular
+331,332,Frankie,Sleeford,26,M,Sacramento,Unknown,United States,9.0,premium
+332,333,Melinda,Nott,84,F,Amarillo,Texas,United States,7.0,premium
+333,334,Eleen,Ofer,71,F,Duluth,Unknown,United States,7.0,premium
+334,335,Belvia,Relph,32,F,Sacramento,California,United States,10.0,premium
+335,336,Christian,Kintish,61,M,Washington,Unknown,United States,10.0,premium
+336,337,Jerrome,Bysouth,83,M,Hagerstown,Maryland,United States,8.0,premium
+337,338,Shelley,Ryde,31,M,Great Neck,New York,United States,10.0,premium
+338,339,Sampson,Realph,63,M,Carlsbad,California,United States,7.0,premium
+339,340,Anestassia,Unknown,97,F,Washington,District of Columbia,United States,3.0,regular
+340,341,Saunders,Fone,17,M,Boca Raton,Unknown,United States,2.0,regular
+341,342,Martainn,Gawkroge,26,M,Miami,Florida,United States,1.0,new
+342,343,Steve,Unknown,49,M,Houston,Texas,United States,5.0,regular
+343,344,Helyn,Clavering,26,F,Kansas City,Missouri,United States,4.0,regular
+344,345,Mal,Unknown,69,M,Washington,District of Columbia,United States,10.0,premium
+345,346,Barry,Greveson,5,F,Detroit,Unknown,United States,2.0,regular
+346,347,Eldredge,Demelt,30,M,Denver,Colorado,United States,10.0,premium
+347,348,Stevy,Hentzeler,22,M,Atlanta,Georgia,United States,2.0,regular
+348,349,Gussie,Simeone,98,F,Durham,Unknown,United States,3.0,regular
+349,350,Bette-ann,Dewire,39,F,Provo,Utah,United States,7.0,premium
+350,351,Elmira,Lesser,15,F,Miami,Florida,United States,5.0,regular
+351,352,Samuele,Emig,48,M,Springfield,Unknown,United States,8.0,premium
+352,353,Andrus,Hurley,38,M,Atlanta,Georgia,United States,6.0,premium
+353,354,Bearnard,Carnie,45,M,Toledo,Unknown,United States,6.0,premium
+354,355,Pete,Aikett,43,M,Kissimmee,Florida,United States,0.0,new
+355,356,Tyrone,Roller,83,M,Silver Spring,Maryland,United States,10.0,premium
+356,357,Gabie,Weddeburn - Scrimgeour,23,F,San Diego,California,United States,7.0,premium
+357,358,Chad,Winning,14,M,Juneau,Alaska,United States,1.0,new
+358,359,Kelcy,O'Cridigan,98,F,Berkeley,California,United States,8.0,premium
+359,360,Frasquito,Sarch,70,M,Bloomington,Unknown,United States,7.0,premium
+360,361,Dulcia,Unknown,88,F,Naples,Florida,United States,4.0,regular
+361,362,Concettina,Unknown,48,F,Riverside,California,United States,4.0,regular
+362,363,Iseabal,Stump,27,F,North Hollywood,California,United States,6.0,premium
+363,364,Kristy,Menichelli,27,F,Richmond,Virginia,United States,10.0,premium
+364,365,Zacharia,Jojic,9,M,Arlington,Texas,United States,1.0,new
+365,366,Talia,Hasker,4,F,Seattle,Washington,United States,0.0,new
+366,367,Bamby,Colmer,12,F,Richmond,Virginia,United States,8.0,premium
+367,368,Veronike,Bickford,53,F,Largo,Florida,United States,3.0,regular
+368,369,Patric,Unknown,48,M,San Francisco,California,United States,10.0,premium
+369,370,Valli,Matteoli,54,F,Vancouver,Washington,United States,4.0,regular
+370,371,Monique,Grouer,23,F,Long Beach,California,United States,0.0,new
+371,372,Rock,Claricoats,91,M,Birmingham,Alabama,United States,9.0,premium
+372,373,Ailyn,McNirlin,66,F,Atlanta,Georgia,United States,6.0,premium
+373,374,Gilberte,Hannaby,3,F,Fort Lauderdale,Unknown,United States,5.0,regular
+374,375,Blakeley,Harder,1,F,Chicago,Unknown,United States,7.0,premium
+375,376,Neville,Romeuf,65,M,Raleigh,North Carolina,United States,4.0,regular
+376,377,Allianora,Hoodlass,78,F,Louisville,Kentucky,United States,0.0,new
+377,378,Philomena,Sheere,60,F,Savannah,Unknown,United States,4.0,regular
+378,379,Reinwald,Hayland,60,M,Oklahoma City,Oklahoma,United States,4.0,regular
+379,380,Dimitri,Reide,15,M,Colorado Springs,Colorado,United States,3.0,regular
+380,381,Rorie,Sheber,78,F,Raleigh,Unknown,United States,8.0,premium
+381,382,Adriena,Sonner,32,F,Pensacola,Unknown,United States,5.0,regular
+382,383,Jecho,Tall,93,M,Kalamazoo,Michigan,United States,9.0,premium
+383,384,Marc,Darycott,97,M,New Orleans,Louisiana,United States,3.0,regular
+384,385,Tricia,Morit,12,F,Tucson,Arizona,United States,10.0,premium
+385,386,Ephrem,Cadwallader,57,M,Arlington,Texas,United States,3.0,regular
+386,387,Daria,Unknown,77,F,Denver,Unknown,United States,1.0,new
+387,388,Merry,Coaten,41,M,Vancouver,Washington,United States,6.0,premium
+388,389,Babette,Biskupski,86,F,Waterbury,Connecticut,United States,7.0,premium
+389,390,Dorie,Wiszniewski,5,M,Dallas,Unknown,United States,8.0,premium
+390,391,Duncan,Sommerlin,83,M,Clearwater,Florida,United States,1.0,new
+391,392,Dag,Luetchford,38,M,Buffalo,New York,United States,5.0,regular
+392,393,Ches,McClory,71,M,Birmingham,Alabama,United States,7.0,premium
+393,394,Graeme,O'Carroll,45,M,Birmingham,Alabama,United States,3.0,regular
+394,395,Selinda,Unknown,95,F,Inglewood,California,United States,1.0,new
+395,396,Rodrique,Unknown,17,M,Nashville,Tennessee,United States,4.0,regular
+396,397,Ferris,Tippin,73,M,Marietta,Georgia,United States,6.0,premium
+397,398,Albina,Dossettor,89,F,Tampa,Florida,United States,3.0,regular
+398,399,Tim,Moore,59,M,San Antonio,Texas,United States,5.0,regular
+399,400,Gerrard,Gleder,12,M,Akron,Ohio,United States,5.0,regular
+400,401,Juanita,Unknown,34,F,Chicago,Illinois,United States,2.0,regular
+401,402,Udale,Tampion,36,M,Columbus,Ohio,United States,1.0,new
+402,403,Virgil,Thomesson,2,M,Harrisburg,Pennsylvania,United States,0.0,new
+403,404,Lion,Gerty,42,M,Indianapolis,Indiana,United States,7.0,premium
+404,405,Rona,MacCague,41,F,Washington,District of Columbia,United States,1.0,new
+405,406,Jeffie,Flay,16,M,Jackson,Mississippi,United States,4.0,regular
+406,407,Malia,Bassano,68,F,Salinas,Unknown,United States,0.0,new
+407,408,Sharron,Lealle,69,F,Buffalo,New York,United States,5.0,regular
+408,409,Remy,Kondrat,27,F,Miami,Florida,United States,7.0,premium
+409,410,Cymbre,Unknown,28,F,Oklahoma City,Oklahoma,United States,4.0,regular
+410,411,Aloysius,Kassel,92,M,Spartanburg,South Carolina,United States,4.0,regular
+411,412,Bellina,Merrill,17,F,Boston,Massachusetts,United States,3.0,regular
+412,413,Jacinda,Duffrie,18,F,Tuscaloosa,Alabama,United States,1.0,new
+413,414,Cad,Linnane,61,M,Independence,Missouri,United States,3.0,regular
+414,415,Callean,Biggadike,69,M,New Orleans,Unknown,United States,0.0,new
+415,416,Aldridge,Unknown,14,M,Modesto,California,United States,2.0,regular
+416,417,Kandace,Radnedge,22,F,Houston,Texas,United States,7.0,premium
+417,418,Worth,Bygreaves,6,M,Birmingham,Alabama,United States,10.0,premium
+418,419,Arin,Jaram,78,M,Meridian,Mississippi,United States,9.0,premium
+419,420,Ezmeralda,Massei,74,F,Flint,Unknown,United States,0.0,new
+420,421,Emmaline,Blinder,24,F,Redwood City,California,United States,4.0,regular
+421,422,Allyce,Dumblton,36,F,Sacramento,Unknown,United States,0.0,new
+422,423,Harrison,Bowsher,58,M,Tucson,Arizona,United States,3.0,regular
+423,424,Brendon,Sibbson,97,M,San Jose,California,United States,4.0,regular
+424,425,Haven,Winslade,18,M,Montgomery,Alabama,United States,9.0,premium
+425,426,Staci,Dicke,82,F,Houston,Texas,United States,1.0,new
+426,427,Emlynne,Stratiff,75,F,San Jose,California,United States,1.0,new
+427,428,Jonis,Tripney,31,F,Baltimore,Maryland,United States,3.0,regular
+428,429,Fidelia,Baudts,42,F,Billings,Montana,United States,7.0,premium
+429,430,Valenka,Wogdon,12,F,Cincinnati,Ohio,United States,7.0,premium
+430,431,Roch,Klimkiewich,14,F,Sacramento,California,United States,4.0,regular
+431,432,Allis,Siddaley,16,F,Washington,Unknown,United States,4.0,regular
+432,433,Janie,Pedder,86,F,Miami Beach,Florida,United States,6.0,premium
+433,434,Aime,Allman,1,F,Corpus Christi,Texas,United States,3.0,regular
+434,435,Alfy,Kiley,12,F,San Diego,Unknown,United States,1.0,new
+435,436,Sharlene,Campanelle,52,F,Johnson City,Tennessee,United States,0.0,new
+436,437,Carline,Gremain,9,F,Washington,District of Columbia,United States,8.0,premium
+437,438,Ettore,Glas,97,M,Erie,Unknown,United States,5.0,regular
+438,439,Marylinda,Pudsey,79,F,Chattanooga,Tennessee,United States,1.0,new
+439,440,Bonita,Strongitharm,29,F,Kansas City,Missouri,United States,10.0,premium
+440,441,Meris,Sorrie,66,F,Vancouver,Washington,United States,5.0,regular
+441,442,Salli,Adrien,36,F,Huntington,West Virginia,United States,5.0,regular
+442,443,Dorrie,Clutton,79,F,Fresno,California,United States,4.0,regular
+443,444,Marten,Horlock,62,M,Miami,Unknown,United States,2.0,regular
+444,445,Immanuel,Troy,16,M,Memphis,Tennessee,United States,5.0,regular
+445,446,Nesta,Unknown,6,F,Santa Cruz,California,United States,2.0,regular
+446,447,Davine,Petrolli,30,F,Philadelphia,Pennsylvania,United States,0.0,new
+447,448,Adey,MacKomb,50,F,Orange,California,United States,7.0,premium
+448,449,Jarad,Unknown,49,M,Mobile,Unknown,United States,3.0,regular
+449,450,Hulda,Kersting,79,F,Champaign,Illinois,United States,8.0,premium
+450,451,Amery,Unknown,58,M,East Saint Louis,Unknown,United States,2.0,regular
+451,452,Olly,McGruar,45,F,Harrisburg,Pennsylvania,United States,0.0,new
+452,453,Arney,Paladini,13,M,Stockton,California,United States,7.0,premium
+453,454,Town,Thrustle,27,M,Seattle,Washington,United States,5.0,regular
+454,455,Kathye,Plaide,79,F,Bismarck,North Dakota,United States,2.0,regular
+455,456,Merrel,Unknown,99,M,Los Angeles,California,United States,7.0,premium
+456,457,Heywood,Dunckley,1,M,Tucson,Unknown,United States,9.0,premium
+457,458,Kerwinn,Lewsy,97,M,Honolulu,Unknown,United States,8.0,premium
+458,459,Timothee,Edwin,44,M,Dallas,Texas,United States,2.0,regular
+459,460,Vick,Parke,92,M,Miami,Florida,United States,9.0,premium
+460,461,Hannah,Trewin,51,F,Jamaica,New York,United States,3.0,regular
+461,462,Willi,Unknown,15,F,Lexington,Kentucky,United States,0.0,new
+462,463,Derwin,Caulwell,4,M,Clearwater,Florida,United States,9.0,premium
+463,464,Jaquelyn,Mulcaster,64,F,Erie,Pennsylvania,United States,6.0,premium
+464,465,Pete,Betje,94,M,Madison,Unknown,United States,10.0,premium
+465,466,Ilario,Marshallsay,49,M,Saint Louis,Missouri,United States,6.0,premium
+466,467,Darelle,Unknown,16,F,Saint Louis,Missouri,United States,4.0,regular
+467,468,Kendal,Nolot,97,M,Saint Petersburg,Florida,United States,2.0,regular
+468,469,Marc,Pluthero,33,M,Burbank,California,United States,2.0,regular
+469,470,Golda,Rodda,34,F,Dayton,Ohio,United States,4.0,regular
+470,471,Dougie,Winckle,52,M,Saint Paul,Minnesota,United States,3.0,regular
+471,472,Delmar,Ilive,30,M,Los Angeles,California,United States,7.0,premium
+472,473,Cosette,Schwander,83,F,Bakersfield,California,United States,1.0,new
+473,474,Fred,Goldson,7,F,Anchorage,Alaska,United States,9.0,premium
+474,475,Yale,Easom,21,M,Brockton,Massachusetts,United States,0.0,new
+475,476,Chaim,Unknown,7,M,Houston,Texas,United States,0.0,new
+476,477,Christi,Henrichs,28,F,Philadelphia,Unknown,United States,4.0,regular
+477,478,Erv,Do,46,M,Dallas,Texas,United States,3.0,regular
+478,479,Bartolemo,Thrift,59,M,Colorado Springs,Colorado,United States,10.0,premium
+479,480,Aldwin,Emilien,67,M,Washington,Unknown,United States,9.0,premium
+480,481,Katinka,Learoid,36,F,Inglewood,California,United States,4.0,regular
+481,482,Hakeem,Unknown,67,M,Modesto,Unknown,United States,8.0,premium
+482,483,Mollee,Drysdale,56,F,Richmond,Virginia,United States,10.0,premium
+483,484,Kristoforo,Batalle,11,M,Denver,Colorado,United States,2.0,regular
+484,485,Benny,Jeavons,66,M,Round Rock,Unknown,United States,10.0,premium
+485,486,Luciano,Ashburne,72,M,Toledo,Unknown,United States,0.0,new
+486,487,Barbey,Seleway,93,F,Miami Beach,Florida,United States,6.0,premium
+487,488,Yolane,Mattheeuw,40,F,Gadsden,Alabama,United States,9.0,premium
+488,489,Cloe,Unknown,81,F,Sacramento,California,United States,1.0,new
+489,490,Mark,Grew,19,M,Watertown,Unknown,United States,9.0,premium
+490,491,Rodrique,Sheere,17,M,Springfield,Missouri,United States,8.0,premium
+491,492,Turner,Sands-Allan,40,M,San Diego,California,United States,0.0,new
+492,493,Seana,Unknown,88,F,San Francisco,California,United States,8.0,premium
+493,494,Orlan,Mowday,14,M,Waltham,Massachusetts,United States,1.0,new
+494,495,Ariella,Bristowe,76,F,Buffalo,New York,United States,10.0,premium
+495,496,Randie,Piesold,25,F,Nashville,Unknown,United States,1.0,new
+496,497,Tana,Szubert,25,F,Moreno Valley,Unknown,United States,0.0,new
+497,498,Tam,Tiltman,78,M,Indianapolis,Unknown,United States,5.0,regular
+498,499,Ozzie,Unknown,10,M,Chattanooga,Tennessee,United States,1.0,new
+499,500,Kalle,Older,45,M,Glendale,California,United States,0.0,new
